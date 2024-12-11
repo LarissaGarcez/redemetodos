@@ -1,0 +1,3388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta>
+    <title>rede_violencia (6).gexf</title>
+    <authors>NetworkX 3.4.2</authors>
+  </meta>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="bipartite" title="bipartite" type="integer"/>
+      <attribute id="genero" title="genero" type="string"/>
+      <attribute id="rawSize" title="rawSize" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="Márcia Basseto Paes" label="Márcia Basseto Paes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="72.2957534790039" y="42.86465835571289"/>
+      </node>
+      <node id="Célia Regina Barboza Ramos" label="Célia Regina Barboza Ramos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-28.72964859008789" y="74.86260986328125"/>
+      </node>
+      <node id="Geraldo Augusto de Siqueira Filho" label="Geraldo Augusto de Siqueira Filho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="33.60297775268555" y="4.90927791595459"/>
+      </node>
+      <node id="Hebert William Couto Melo (Piauí)" label="Hebert William Couto Melo (Piauí)">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="63.15049743652344" y="-15.104896545410156"/>
+      </node>
+      <node id="Anitta Maria Fabri" label="Anitta Maria Fabri">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="60.02440643310547" y="47.838111877441406"/>
+      </node>
+      <node id="José Maria Filardo Bassalo" label="José Maria Filardo Bassalo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="14.108040809631348" y="-5.057024955749512"/>
+      </node>
+      <node id="Paulo Markun" label="Paulo Markun">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-66.49646759033203" y="19.978458404541016"/>
+      </node>
+      <node id="Walter da Silva" label="Walter da Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-64.94686126708984" y="16.762022018432617"/>
+      </node>
+      <node id="Mario Wajc" label="Mario Wajc">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-69.86113739013672" y="17.862031936645508"/>
+      </node>
+      <node id="Adriano Diogo" label="Adriano Diogo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="59.88687515258789" y="-12.373376846313477"/>
+      </node>
+      <node id="Arnaldo Schreiner" label="Arnaldo Schreiner">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="50.74625778198242" y="7.197166919708252"/>
+      </node>
+      <node id="José Roberto Michelazzo" label="José Roberto Michelazzo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="38.937217712402344" y="-10.623372077941895"/>
+      </node>
+      <node id="Robson Corrêa de Camargo" label="Robson Corrêa de Camargo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="25.739953994750977" y="-42.24705505371094"/>
+      </node>
+      <node id="Pedro Rocha Filho" label="Pedro Rocha Filho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="43.86310577392578" y="-21.767183303833008"/>
+      </node>
+      <node id="Ronaldo Eduardo Almeida" label="Ronaldo Eduardo Almeida">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="43.25505447387695" y="-52.130271911621094"/>
+      </node>
+      <node id="Sérgio Ferro" label="Sérgio Ferro">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="34.235286712646484" y="-35.922996520996094"/>
+      </node>
+      <node id="João Batista Villanova Artigas" label="João Batista Villanova Artigas">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="22.523279190063477" y="-18.028322219848633"/>
+      </node>
+      <node id="Eduardo Manzano" label="Eduardo Manzano">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-44.42287063598633" y="4.017690181732178"/>
+      </node>
+      <node id="Victor Nussenzweig" label="Victor Nussenzweig">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="46.136959075927734" y="-50.30194091796875"/>
+      </node>
+      <node id="Isaias Raw" label="Isaias Raw">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="16.413734436035156" y="-8.640278816223145"/>
+      </node>
+      <node id="Thomas Maack" label="Thomas Maack">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="30.257692337036133" y="-11.503466606140137"/>
+      </node>
+      <node id="Alexander José Ibsen Voeroes" label="Alexander José Ibsen Voeroes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="62.16617965698242" y="-20.91365623474121"/>
+      </node>
+      <node id="Alexandre Vannuchi Leme" label="Alexandre Vannuchi Leme">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="73.42768096923828" y="27.18390464782715"/>
+      </node>
+      <node id="Ana Rosa Kucinski" label="Ana Rosa Kucinski">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-53.86540985107422" y="79.24617004394531"/>
+      </node>
+      <node id="Fernando Henrique Cardoso" label="Fernando Henrique Cardoso">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-50.77476119995117" y="-16.381505966186523"/>
+      </node>
+      <node id="João Cruz Costa" label="João Cruz Costa">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-66.69329071044922" y="24.402908325195312"/>
+      </node>
+      <node id="Florestan Fernandes" label="Florestan Fernandes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-11.635519027709961" y="-45.28617858886719"/>
+      </node>
+      <node id="Mário Schenberg" label="Mário Schenberg">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-45.938167572021484" y="-32.63082504272461"/>
+      </node>
+      <node id="Nuno Fidelino de Figueiredo" label="Nuno Fidelino de Figueiredo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-19.844491958618164" y="-61.45245361328125"/>
+      </node>
+      <node id="Lenina Pomeranz" label="Lenina Pomeranz">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-34.33600997924805" y="53.04199981689453"/>
+      </node>
+      <node id="Mário Wagner" label="Mário Wagner">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-69.41213989257812" y="22.101125717163086"/>
+      </node>
+      <node id="Paulo Singer" label="Paulo Singer">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-63.195926666259766" y="21.109542846679688"/>
+      </node>
+      <node id="Abelardo Riedy de Souza" label="Abelardo Riedy de Souza">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-61.78536605834961" y="28.550800323486328"/>
+      </node>
+      <node id="Erney Felício Plessmann de Camargo" label="Erney Felício Plessmann de Camargo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="5.431689262390137" y="2.1543638706207275"/>
+      </node>
+      <node id="Israel Nussenzveig" label="Israel Nussenzveig">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-40.844932556152344" y="-12.65041446685791"/>
+      </node>
+      <node id="José Mario Taques Bittencourt" label="José Mario Taques Bittencourt">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-68.19995880126953" y="14.666879653930664"/>
+      </node>
+      <node id="Júlio Pudles" label="Júlio Pudles">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-15.424263954162598" y="-46.78311538696289"/>
+      </node>
+      <node id="Luiz Hildebrando Pereira da Silva" label="Luiz Hildebrando Pereira da Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-17.456066131591797" y="23.77590560913086"/>
+      </node>
+      <node id="Michel P. Rabinovitch" label="Michel P. Rabinovitch">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-39.465919494628906" y="9.662113189697266"/>
+      </node>
+      <node id="Nelson Rodrigues dos Santos" label="Nelson Rodrigues dos Santos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="23.404239654541016" y="1.048682689666748"/>
+      </node>
+      <node id="Pedro Henrique Saldanha" label="Pedro Henrique Saldanha">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-54.24058151245117" y="-21.52789306640625"/>
+      </node>
+      <node id="Reynaldo Chiaverini" label="Reynaldo Chiaverini">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-51.046443939208984" y="-5.947445392608643"/>
+      </node>
+      <node id="Jayme Tiomno" label="Jayme Tiomno">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-41.69397735595703" y="-32.282798767089844"/>
+      </node>
+      <node id="Alberto de Carvalho da Silva" label="Alberto de Carvalho da Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-11.08156681060791" y="-59.022377014160156"/>
+      </node>
+      <node id="Caio Prado Júnior" label="Caio Prado Júnior">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-18.2810115814209" y="-58.17259979248047"/>
+      </node>
+      <node id="Elza Salvatori Berquó" label="Elza Salvatori Berquó">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-40.40630340576172" y="49.065792083740234"/>
+      </node>
+      <node id="Emília Viotti da Costa" label="Emília Viotti da Costa">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-41.097957611083984" y="39.747127532958984"/>
+      </node>
+      <node id="Hélio Lourenço de Oliveira" label="Hélio Lourenço de Oliveira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-11.664997100830078" y="-41.193485260009766"/>
+      </node>
+      <node id="Isaías Raw" label="Isaías Raw">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-2.120415210723877" y="11.397929191589355"/>
+      </node>
+      <node id="Jean-Claude Bernardet" label="Jean-Claude Bernardet">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-22.269947052001953" y="-39.89066696166992"/>
+      </node>
+      <node id="Jon Andoni Vergareche Maitrejean" label="Jon Andoni Vergareche Maitrejean">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-30.4388427734375" y="-58.565040588378906"/>
+      </node>
+      <node id="José Arthur Gianotti" label="José Arthur Gianotti">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-35.43989944458008" y="-46.09233856201172"/>
+      </node>
+      <node id="Luiz Rey" label="Luiz Rey">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-52.22249984741211" y="-29.29596710205078"/>
+      </node>
+      <node id="Octávio Ianni" label="Octávio Ianni">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-48.09316635131836" y="-36.46282196044922"/>
+      </node>
+      <node id="Olga Baeta Henriques" label="Olga Baeta Henriques">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-37.825687408447266" y="51.48849105834961"/>
+      </node>
+      <node id="Paula Beiguelman" label="Paula Beiguelman">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-42.245689392089844" y="32.067970275878906"/>
+      </node>
+      <node id="Israel Singer" label="Israel Singer">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-14.29217529296875" y="-57.76999282836914"/>
+      </node>
+      <node id="Sebastião Baeta Henriques" label="Sebastião Baeta Henriques">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-24.27587127685547" y="-61.1069450378418"/>
+      </node>
+      <node id="Pedro Calil Padis" label="Pedro Calil Padis">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-26.92954444885254" y="-58.76198959350586"/>
+      </node>
+      <node id="Antônio Dácio Franco do Amaral" label="Antônio Dácio Franco do Amaral">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-15.390353202819824" y="-61.196746826171875"/>
+      </node>
+      <node id="Leonidas de Mello Deane" label="Leonidas de Mello Deane">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-22.426902770996094" y="-58.12419891357422"/>
+      </node>
+      <node id="Maria José Deane" label="Maria José Deane">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-30.150453567504883" y="52.1457633972168"/>
+      </node>
+      <node id="Ada Natal Rodrigues" label="Ada Natal Rodrigues">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="14.780302047729492" y="41.52528381347656"/>
+      </node>
+      <node id="Célia Nunes Galvão Quirino dos Santos" label="Célia Nunes Galvão Quirino dos Santos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="44.71280288696289" y="33.18701934814453"/>
+      </node>
+      <node id="José Francisco Quirino dos Santos" label="José Francisco Quirino dos Santos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="11.581319808959961" y="-2.442924976348877"/>
+      </node>
+      <node id="Bento Paulo Almeida Ferraz Junior" label="Bento Paulo Almeida Ferraz Junior">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-33.38017272949219" y="-42.10752487182617"/>
+      </node>
+      <node id="Ruy Fausto" label="Ruy Fausto">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="29.067142486572266" y="-40.057533264160156"/>
+      </node>
+      <node id="Ulysses Telles Guariba Neto" label="Ulysses Telles Guariba Neto">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="26.05957794189453" y="-37.81964874267578"/>
+      </node>
+      <node id="Abel Bella" label="Abel Bella">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-4.727902412414551" y="29.360776901245117"/>
+      </node>
+      <node id="Caio Venâncio Martins" label="Caio Venâncio Martins">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-1.432780385017395" y="31.15581512451172"/>
+      </node>
+      <node id="Carlos Fernando da Rocha Medeiros" label="Carlos Fernando da Rocha Medeiros">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="24.714111328125" y="-3.4124269485473633"/>
+      </node>
+      <node id="Carlos Yoshikazu Takoaka" label="Carlos Yoshikazu Takoaka">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="0.934851348400116" y="3.1687614917755127"/>
+      </node>
+      <node id="Enzo Luiz Nico Jr" label="Enzo Luiz Nico Jr">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-31.78534698486328" y="-47.47809982299805"/>
+      </node>
+      <node id="Gilberto Luciano Belloque" label="Gilberto Luciano Belloque">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-0.006171291694045067" y="-0.0045393481850624084"/>
+      </node>
+      <node id="Nathanael de Moura Giraldi" label="Nathanael de Moura Giraldi">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-3.9083032608032227" y="-2.241163730621338"/>
+      </node>
+      <node id="Otavio Mielnik" label="Otavio Mielnik">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="16.138015747070312" y="16.521549224853516"/>
+      </node>
+      <node id="Ottoni Guimarães Fernandes Jr" label="Ottoni Guimarães Fernandes Jr">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="2.5246992111206055" y="6.635502338409424"/>
+      </node>
+      <node id="Paulo Roberto Beskow" label="Paulo Roberto Beskow">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="40.02249526977539" y="-5.768104076385498"/>
+      </node>
+      <node id="Paulo de Tarso Vannuchi" label="Paulo de Tarso Vannuchi">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="36.213165283203125" y="11.128190994262695"/>
+      </node>
+      <node id="Paulo de Tarso Wenceslau" label="Paulo de Tarso Wenceslau">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-1.6585713624954224" y="6.920527458190918"/>
+      </node>
+      <node id="Pedro de Camargo" label="Pedro de Camargo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="12.221620559692383" y="9.604305267333984"/>
+      </node>
+      <node id="William Martani" label="William Martani">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-52.98619842529297" y="-9.469202995300293"/>
+      </node>
+      <node id="ANTONIO BENETAZZO" label="ANTONIO BENETAZZO">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="87.69145965576172" y="15.173788070678711"/>
+      </node>
+      <node id="Antônio Carlos Nogueira Cabral" label="Antônio Carlos Nogueira Cabral">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="66.79002380371094" y="31.482620239257812"/>
+      </node>
+      <node id="Arno Preis" label="Arno Preis">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="38.200504302978516" y="15.45061206817627"/>
+      </node>
+      <node id="Aurora Maria Nascimento Furtado" label="Aurora Maria Nascimento Furtado">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="67.78531646728516" y="62.516971588134766"/>
+      </node>
+      <node id="Boanerges de Souza Massa" label="Boanerges de Souza Massa">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="54.78932571411133" y="34.037593841552734"/>
+      </node>
+      <node id="Carlos Eduardo Pires Fleury" label="Carlos Eduardo Pires Fleury">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="88.74785614013672" y="10.278815269470215"/>
+      </node>
+      <node id="Catarina Helena Abi-Eçab" label="Catarina Helena Abi-Eçab">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="78.08328247070312" y="51.576683044433594"/>
+      </node>
+      <node id="Fernando Borges de Paula Ferreira" label="Fernando Borges de Paula Ferreira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="55.043113708496094" y="37.73569869995117"/>
+      </node>
+      <node id="Francisco José de Oliveira" label="Francisco José de Oliveira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="90.17597198486328" y="0.375445693731308"/>
+      </node>
+      <node id="Jon Andoni Maitrejean" label="Jon Andoni Maitrejean">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-53.436641693115234" y="-25.452680587768555"/>
+      </node>
+      <node id="Paulo Mendes da Rocha" label="Paulo Mendes da Rocha">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-21.190603256225586" y="-35.862918853759766"/>
+      </node>
+      <node id="Decio Tozzi" label="Decio Tozzi">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-40.490665435791016" y="-38.952545166015625"/>
+      </node>
+      <node id="Rodrigo Brotero Lefèvre" label="Rodrigo Brotero Lefèvre">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-43.10390853881836" y="-16.198232650756836"/>
+      </node>
+      <node id="Paulo Cesar Xavier Pereira" label="Paulo Cesar Xavier Pereira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="3.0951790809631348" y="-1.168668270111084"/>
+      </node>
+      <node id="Pedro d'Aléssio" label="Pedro d'Aléssio">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-26.708885192871094" y="-41.76778793334961"/>
+      </node>
+      <node id="Ricardo Itsuo Ohtake" label="Ricardo Itsuo Ohtake">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-3.1950466632843018" y="1.7670691013336182"/>
+      </node>
+      <node id="Mayumi Watanabe de Souza Lima" label="Mayumi Watanabe de Souza Lima">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-9.729015350341797" y="27.953857421875"/>
+      </node>
+      <node id="Sérgio Pereira de Souza Lima" label="Sérgio Pereira de Souza Lima">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-44.26838684082031" y="-10.59662914276123"/>
+      </node>
+      <node id="Janice Theodoro Da Silva" label="Janice Theodoro Da Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-28.518543243408203" y="42.221126556396484"/>
+      </node>
+      <node id="Sergio Paulo Moreyra" label="Sergio Paulo Moreyra">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-19.301128387451172" y="-43.2065315246582"/>
+      </node>
+      <node id="Irineu Mangilli Filho" label="Irineu Mangilli Filho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-44.44419860839844" y="-20.586074829101562"/>
+      </node>
+      <node id="Carlos Roberto Monteiro de Andrade" label="Carlos Roberto Monteiro de Andrade">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-23.481029510498047" y="-44.01018524169922"/>
+      </node>
+      <node id="João Leonardo da Silva Rocha" label="João Leonardo da Silva Rocha">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="58.0515022277832" y="4.547556400299072"/>
+      </node>
+      <node id="Gelson Reicher" label="Gelson Reicher">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="81.69169616699219" y="20.88518524169922"/>
+      </node>
+      <node id="Helenira Resende de Souza Nazareth" label="Helenira Resende de Souza Nazareth">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="80.71046447753906" y="63.97871780395508"/>
+      </node>
+      <node id="José Roberto Arantes de Almeida" label="José Roberto Arantes de Almeida">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="68.06465148925781" y="-4.517881393432617"/>
+      </node>
+      <node id="Heleny Ferreira Telles Guariba" label="Heleny Ferreira Telles Guariba">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="38.34591293334961" y="65.86323547363281"/>
+      </node>
+      <node id="Alfredo José Medeiros Aires" label="Alfredo José Medeiros Aires">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="6.7560505867004395" y="19.804298400878906"/>
+      </node>
+      <node id="Alvaro Augusto Wolmer" label="Alvaro Augusto Wolmer">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-7.346790790557861" y="32.85612487792969"/>
+      </node>
+      <node id="Ana Cristina Frias Pereira" label="Ana Cristina Frias Pereira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="7.263949871063232" y="63.866294860839844"/>
+      </node>
+      <node id="Bartira Velludo Varella Costa" label="Bartira Velludo Varella Costa">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-0.00030629601678811014" y="57.92341995239258"/>
+      </node>
+      <node id="Carlos Egídio Alonso" label="Carlos Egídio Alonso">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-47.657562255859375" y="-3.852104663848877"/>
+      </node>
+      <node id="Carlos Henrique Heck" label="Carlos Henrique Heck">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="10.749906539916992" y="20.628082275390625"/>
+      </node>
+      <node id="Eduardo Trani" label="Eduardo Trani">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="10.863150596618652" y="16.80113410949707"/>
+      </node>
+      <node id="Franscisco Marsicano Guedes" label="Franscisco Marsicano Guedes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="0.48167505860328674" y="26.734586715698242"/>
+      </node>
+      <node id="Geraldo de Souza Dias Filho" label="Geraldo de Souza Dias Filho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="6.33554744720459" y="15.857784271240234"/>
+      </node>
+      <node id="Gilberto Franco" label="Gilberto Franco">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="7.782114028930664" y="23.977277755737305"/>
+      </node>
+      <node id="Horacio Calligaris Galvanese" label="Horacio Calligaris Galvanese">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-0.12622174620628357" y="35.300228118896484"/>
+      </node>
+      <node id="Jonas Tadeu Silva Malaco" label="Jonas Tadeu Silva Malaco">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-4.073972225189209" y="34.842071533203125"/>
+      </node>
+      <node id="José Fabio Zamith Calazans" label="José Fabio Zamith Calazans">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="5.044670581817627" y="27.22806739807129"/>
+      </node>
+      <node id="José Jorge da Silva Franco" label="José Jorge da Silva Franco">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="13.298669815063477" y="13.664051055908203"/>
+      </node>
+      <node id="José Salles Costa Filho" label="José Salles Costa Filho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-0.3929767906665802" y="22.34733009338379"/>
+      </node>
+      <node id="Julio Barone" label="Julio Barone">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="12.147683143615723" y="24.39254379272461"/>
+      </node>
+      <node id="Leonildo Benassi Sobrinho" label="Leonildo Benassi Sobrinho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="9.168464660644531" y="12.7824125289917"/>
+      </node>
+      <node id="Manuel Arraiga de Castro Andrade Junior" label="Manuel Arraiga de Castro Andrade Junior">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="6.897821426391602" y="31.288419723510742"/>
+      </node>
+      <node id="Henrique Cintra Ferreira de Ornellas" label="Henrique Cintra Ferreira de Ornellas">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="45.39649200439453" y="-16.208637237548828"/>
+      </node>
+      <node id="Marcelo Carvalho Ferraz" label="Marcelo Carvalho Ferraz">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="2.4377410411834717" y="30.400840759277344"/>
+      </node>
+      <node id="Marcelo Suzuki" label="Marcelo Suzuki">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="3.549149513244629" y="23.29160499572754"/>
+      </node>
+      <node id="Marco Antonio Lopes Tabet" label="Marco Antonio Lopes Tabet">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-3.3145041465759277" y="25.56016731262207"/>
+      </node>
+      <node id="Marcos Monteiro da Costa" label="Marcos Monteiro da Costa">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="14.694154739379883" y="20.215173721313477"/>
+      </node>
+      <node id="Miguel Antônio Buzzar" label="Miguel Antônio Buzzar">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="3.758293867111206" y="34.207698822021484"/>
+      </node>
+      <node id="Milton Assi Hatoum" label="Milton Assi Hatoum">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="16.881267547607422" y="11.961549758911133"/>
+      </node>
+      <node id="Raquel Rolnik" label="Raquel Rolnik">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="1.9468820095062256" y="61.34595489501953"/>
+      </node>
+      <node id="Sergio Fingermann" label="Sergio Fingermann">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="2.812103509902954" y="19.074716567993164"/>
+      </node>
+      <node id="Thelma Annes de Araújo" label="Thelma Annes de Araújo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-8.680013656616211" y="60.77217483520508"/>
+      </node>
+      <node id="Vera Lucia Domschke" label="Vera Lucia Domschke">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="5.4262590408325195" y="60.4211311340332"/>
+      </node>
+      <node id="Vilson Orlando Toniasso" label="Vilson Orlando Toniasso">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="9.443351745605469" y="27.942520141601562"/>
+      </node>
+      <node id="Iara Iavelberg" label="Iara Iavelberg">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="52.711219787597656" y="83.15094757080078"/>
+      </node>
+      <node id="Wilson Ribeiro dos Santos Junior" label="Wilson Ribeiro dos Santos Junior">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="15.81767463684082" y="8.023659706115723"/>
+      </node>
+      <node id="Ísis Dias de Oliveira" label="Ísis Dias de Oliveira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="57.07402038574219" y="71.55081176757812"/>
+      </node>
+      <node id="Issami Nakamura Okano" label="Issami Nakamura Okano">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="74.11795043945312" y="35.57727813720703"/>
+      </node>
+      <node id="Jane Vanini" label="Jane Vanini">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="45.761375427246094" y="69.55162811279297"/>
+      </node>
+      <node id="Jeová Assis Gomes" label="Jeová Assis Gomes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="53.475582122802734" y="11.178592681884766"/>
+      </node>
+      <node id="João Antônio Santos Abi-Eçab" label="João Antônio Santos Abi-Eçab">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="86.77567291259766" y="-1.6353694200515747"/>
+      </node>
+      <node id="Juan Antonio Carrasco Forrastal" label="Juan Antonio Carrasco Forrastal">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="53.347286224365234" y="4.323331356048584"/>
+      </node>
+      <node id="Lauriberto José Reyes" label="Lauriberto José Reyes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="47.814781188964844" y="15.369622230529785"/>
+      </node>
+      <node id="Lígia Maria Salgado Nóbrega" label="Lígia Maria Salgado Nóbrega">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="60.97420883178711" y="33.90470886230469"/>
+      </node>
+      <node id="Luiz Carlos de Almeida" label="Luiz Carlos de Almeida">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="64.30230712890625" y="23.259443283081055"/>
+      </node>
+      <node id="Luiz Eduardo da Rocha Merlino" label="Luiz Eduardo da Rocha Merlino">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="81.25823211669922" y="-18.18674659729004"/>
+      </node>
+      <node id="Luiz Fogaça Balboni" label="Luiz Fogaça Balboni">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="65.05107879638672" y="-9.47496509552002"/>
+      </node>
+      <node id="Leonel Itaussi de Almeida" label="Leonel Itaussi de Almeida">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="5.606079578399658" y="-47.61391067504883"/>
+      </node>
+      <node id="Luiz Eduardo Almeida Curti" label="Luiz Eduardo Almeida Curti">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="6.572662830352783" y="-43.783931732177734"/>
+      </node>
+      <node id="José Damião de Lima Trindade" label="José Damião de Lima Trindade">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="10.6295804977417" y="-42.2851448059082"/>
+      </node>
+      <node id="Alvaro Roberto Margarido Pires" label="Alvaro Roberto Margarido Pires">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="14.81269359588623" y="-41.073787689208984"/>
+      </node>
+      <node id="Marcio Taiz Valente Oswaldo" label="Marcio Taiz Valente Oswaldo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="10.172816276550293" y="-47.628360748291016"/>
+      </node>
+      <node id="Percival Menon Maricato" label="Percival Menon Maricato">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="27.69827651977539" y="-29.671052932739258"/>
+      </node>
+      <node id="José Antonio Fernando Ferrari" label="José Antonio Fernando Ferrari">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="29.577743530273438" y="-24.142005920410156"/>
+      </node>
+      <node id="Maria Helena Andrade Silva" label="Maria Helena Andrade Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="25.464324951171875" y="15.75389289855957"/>
+      </node>
+      <node id="Solange Ramos Esteves" label="Solange Ramos Esteves">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="25.909290313720703" y="11.42004108428955"/>
+      </node>
+      <node id="Eliette Lisboa Martelli" label="Eliette Lisboa Martelli">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="11.400652885437012" y="47.11833190917969"/>
+      </node>
+      <node id="Ademir Buitoni" label="Ademir Buitoni">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="31.588552474975586" y="-28.220813751220703"/>
+      </node>
+      <node id="Azael Rangel Camargo" label="Azael Rangel Camargo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="14.037817001342773" y="-45.51359558105469"/>
+      </node>
+      <node id="João Miguel" label="João Miguel">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-43.328556060791016" y="-36.0217170715332"/>
+      </node>
+      <node id="Miguelson David Isaac" label="Miguelson David Isaac">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-34.420188903808594" y="-37.72411346435547"/>
+      </node>
+      <node id="Elício de Cresci Sobrinho" label="Elício de Cresci Sobrinho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-39.069557189941406" y="-44.74004364013672"/>
+      </node>
+      <node id="Juvêncio Gomes Garcia" label="Juvêncio Gomes Garcia">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-23.696622848510742" y="-47.81289291381836"/>
+      </node>
+      <node id="Rubens Naman Rizek" label="Rubens Naman Rizek">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-43.96327590942383" y="-28.325481414794922"/>
+      </node>
+      <node id="Cícero Alexandre Jorge Gubeissi" label="Cícero Alexandre Jorge Gubeissi">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-49.78989791870117" y="-12.073458671569824"/>
+      </node>
+      <node id="Luiz Hirata" label="Luiz Hirata">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="75.12712097167969" y="-9.062673568725586"/>
+      </node>
+      <node id="Luiza Augusta Garlippe" label="Luiza Augusta Garlippe">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="17.131269454956055" y="73.94576263427734"/>
+      </node>
+      <node id="Manuel José Nunes Mendes de Abreu" label="Manuel José Nunes Mendes de Abreu">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="78.93023681640625" y="-21.53609275817871"/>
+      </node>
+      <node id="Maria Regina Marcondes Pinto" label="Maria Regina Marcondes Pinto">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-13.83551025390625" y="85.89471435546875"/>
+      </node>
+      <node id="Miguel Pereira dos Santos" label="Miguel Pereira dos Santos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="41.06985092163086" y="24.518911361694336"/>
+      </node>
+      <node id="Nelson de Souza Kohl" label="Nelson de Souza Kohl">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="50.31760787963867" y="23.807939529418945"/>
+      </node>
+      <node id="Norberto Nehring" label="Norberto Nehring">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="40.592071533203125" y="1.9602307081222534"/>
+      </node>
+      <node id="Olavo Hansen" label="Olavo Hansen">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="60.49970626831055" y="-4.634432315826416"/>
+      </node>
+      <node id="Ronaldo Mouth Queiroz" label="Ronaldo Mouth Queiroz">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="53.19403076171875" y="-11.607928276062012"/>
+      </node>
+      <node id="Ruy Carlos Vieira Berbert" label="Ruy Carlos Vieira Berbert">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="57.605438232421875" y="25.133522033691406"/>
+      </node>
+      <node id="Sérgio Roberto Corrêa" label="Sérgio Roberto Corrêa">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-65.35631561279297" y="27.582239151000977"/>
+      </node>
+      <node id="Sidney Fix Marques dos Santos" label="Sidney Fix Marques dos Santos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="20.73564910888672" y="47.33311080932617"/>
+      </node>
+      <node id="Suely Yumiko Komaiana" label="Suely Yumiko Komaiana">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="47.2787971496582" y="59.52093505859375"/>
+      </node>
+      <node id="Tito de Alencar Lima" label="Tito de Alencar Lima">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="50.66456985473633" y="-1.9213706254959106"/>
+      </node>
+      <node id="Vladimir Herzog" label="Vladimir Herzog">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="47.17421340942383" y="-12.420684814453125"/>
+      </node>
+      <node id="Wânio José de Mattos" label="Wânio José de Mattos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="56.73272705078125" y="19.55451011657715"/>
+      </node>
+      <node id="Wilson Silva" label="Wilson Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="42.068084716796875" y="48.359901428222656"/>
+      </node>
+      <node id="Paulo Alfeu Monteiro Junqueira Duarte" label="Paulo Alfeu Monteiro Junqueira Duarte">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-47.48982620239258" y="-18.537654876708984"/>
+      </node>
+      <node id="Pedro Dimitrov" label="Pedro Dimitrov">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-27.625202178955078" y="-47.25172805786133"/>
+      </node>
+      <node id="Antonio de Azevedo Barros Filho" label="Antonio de Azevedo Barros Filho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-45.4954833984375" y="-39.636512756347656"/>
+      </node>
+      <node id="Carl Peter von Dietrich" label="Carl Peter von Dietrich">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-14.330726623535156" y="-37.60136795043945"/>
+      </node>
+      <node id="Celso Luiz Leite" label="Celso Luiz Leite">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-49.205970764160156" y="-25.200008392333984"/>
+      </node>
+      <node id="Marilisa Berti de Azevedo Barros" label="Marilisa Berti de Azevedo Barros">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-37.3656120300293" y="41.496986389160156"/>
+      </node>
+      <node id="Pedro Ratis e Silva" label="Pedro Ratis e Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-18.08561134338379" y="-38.813621520996094"/>
+      </node>
+      <node id="Sadalla Domingos" label="Sadalla Domingos">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-47.999027252197266" y="-29.063222885131836"/>
+      </node>
+      <node id="Sonia Machado de Campos Dietrich" label="Sonia Machado de Campos Dietrich">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-43.13797378540039" y="36.06464767456055"/>
+      </node>
+      <node id="Maria Niedja Leite de Oliveira" label="Maria Niedja Leite de Oliveira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-38.36194610595703" y="31.724750518798828"/>
+      </node>
+      <node id="Edgard Augusto Lopes" label="Edgard Augusto Lopes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-54.158138275146484" y="-13.44320297241211"/>
+      </node>
+      <node id="Mario Koech Takeya" label="Mario Koech Takeya">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-50.3955192565918" y="-33.03532028198242"/>
+      </node>
+      <node id="Fuad Daher Saad" label="Fuad Daher Saad">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-46.458744049072266" y="-14.217318534851074"/>
+      </node>
+      <node id="Antonio Carlos Vilela Braga" label="Antonio Carlos Vilela Braga">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-38.35741424560547" y="-35.6280403137207"/>
+      </node>
+      <node id="Eliseu Gabriel de Pieri" label="Eliseu Gabriel de Pieri">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-25.874347686767578" y="-37.78830337524414"/>
+      </node>
+      <node id="Maria Alice Machado de Gouveia" label="Maria Alice Machado de Gouveia">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-28.699459075927734" y="38.52385330200195"/>
+      </node>
+      <node id="Sergio de Mello Schneider" label="Sergio de Mello Schneider">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-30.252111434936523" y="-38.781463623046875"/>
+      </node>
+      <node id="Luiz Gonzaga Moreira" label="Luiz Gonzaga Moreira">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-54.56229019165039" y="-17.625648498535156"/>
+      </node>
+      <node id="Ottaviano Carlo de Fiore" label="Ottaviano Carlo de Fiore">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-15.432456016540527" y="-42.39567565917969"/>
+      </node>
+      <node id="Odette Carvalho de Lima Seabra" label="Odette Carvalho de Lima Seabra">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-32.7458381652832" y="41.268192291259766"/>
+      </node>
+      <node id="Marina Ferreira Rea" label="Marina Ferreira Rea">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-34.752044677734375" y="33.624332427978516"/>
+      </node>
+      <node id="Antonio Januario de Magalhães" label="Antonio Januario de Magalhães">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-19.45621109008789" y="-47.303245544433594"/>
+      </node>
+      <node id="Jairo Zacarias Gonçalves" label="Jairo Zacarias Gonçalves">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-29.926488876342773" y="-43.71359634399414"/>
+      </node>
+      <node id="Luiz Silveira Menna Barreto" label="Luiz Silveira Menna Barreto">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-8.527485847473145" y="-4.7770514488220215"/>
+      </node>
+      <node id="José Freitas Nobre" label="José Freitas Nobre">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-44.139469146728516" y="-5.709787845611572"/>
+      </node>
+      <node id="José Marques de Melo" label="José Marques de Melo">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-50.17633819580078" y="-21.352798461914062"/>
+      </node>
+      <node id="Lucia Maria Sálvia Coelho" label="Lucia Maria Sálvia Coelho">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-31.689167022705078" y="36.175201416015625"/>
+      </node>
+      <node id="Maria Hermínia Tavares de Almeida" label="Maria Hermínia Tavares de Almeida">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-15.15143871307373" y="44.91195297241211"/>
+      </node>
+      <node id="Nei Rocha Cunha" label="Nei Rocha Cunha">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-37.129844665527344" y="-41.00761032104492"/>
+      </node>
+      <node id="Sergio Pereira de Souza Lima" label="Sergio Pereira de Souza Lima">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-40.857322692871094" y="-7.693411350250244"/>
+      </node>
+      <node id="Albertina Duarte" label="Albertina Duarte">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-23.27623176574707" y="68.31512451171875"/>
+      </node>
+      <node id="Áurea Moretti Pires" label="Áurea Moretti Pires">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-5.759672164916992" y="58.09580612182617"/>
+      </node>
+      <node id="Abram Becjam Fajer" label="Abram Becjam Fajer">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-41.537353515625" y="2.396327257156372"/>
+      </node>
+      <node id="Alberto Carvalho da Silva" label="Alberto Carvalho da Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-45.341026306152344" y="-24.37799644470215"/>
+      </node>
+      <node id="Antonio Frederico Branco Lefévre" label="Antonio Frederico Branco Lefévre">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-37.2357292175293" y="2.783897876739502"/>
+      </node>
+      <node id="Arnóbio Washington" label="Arnóbio Washington">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-38.917091369628906" y="5.99462366104126"/>
+      </node>
+      <node id="Eunofre Marques" label="Eunofre Marques">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-38.95812225341797" y="-0.2420448511838913"/>
+      </node>
+      <node id="Feiga Langfeldt" label="Feiga Langfeldt">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-23.639930725097656" y="64.93811798095703"/>
+      </node>
+      <node id="Francisco Humberto de Abreu Maffei" label="Francisco Humberto de Abreu Maffei">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-42.504188537597656" y="7.279781818389893"/>
+      </node>
+      <node id="José Barros Magaldi" label="José Barros Magaldi">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-32.37493133544922" y="-4.7881550788879395"/>
+      </node>
+      <node id="Maria José Von Paumgartten Deane" label="Maria José Von Paumgartten Deane">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-27.03832244873047" y="66.26810455322266"/>
+      </node>
+      <node id="Roland Veras Saldanha" label="Roland Veras Saldanha">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-35.46118927001953" y="-1.7253659963607788"/>
+      </node>
+      <node id="Elza Berquó" label="Elza Berquó">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-38.93601608276367" y="35.979427337646484"/>
+      </node>
+      <node id="Antônio Guimarães Ferri" label="Antônio Guimarães Ferri">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-62.37989807128906" y="24.73198127746582"/>
+      </node>
+      <node id="Dilea Frate" label="Dilea Frate">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-33.229331970214844" y="48.089229583740234"/>
+      </node>
+      <node id="Eduardo Peñuela Canizal" label="Eduardo Peñuela Canizal">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-47.676910400390625" y="-8.520544052124023"/>
+      </node>
+      <node id="Jair Borin" label="Jair Borin">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="33.741764068603516" y="0.2599472105503082"/>
+      </node>
+      <node id="Thomaz Jorge Farkas" label="Thomaz Jorge Farkas">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-37.63934326171875" y="-9.899182319641113"/>
+      </node>
+      <node id="Paulo Emílio Sales Gomes" label="Paulo Emílio Sales Gomes">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-42.46965408325195" y="-42.49443435668945"/>
+      </node>
+      <node id="Cremilda Araújo Medina" label="Cremilda Araújo Medina">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-35.451683044433594" y="38.06364440917969"/>
+      </node>
+      <node id="Sinval Medina" label="Sinval Medina">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-17.339914321899414" y="-34.224185943603516"/>
+      </node>
+      <node id="Fernanda Andrade Pompeu" label="Fernanda Andrade Pompeu">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="24.583072662353516" y="57.78248596191406"/>
+      </node>
+      <node id="José Américo Ascêncio Dias" label="José Américo Ascêncio Dias">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-53.82972717285156" y="23.16761016845703"/>
+      </node>
+      <node id="Luiz Sergio Ragnole Silva" label="Luiz Sergio Ragnole Silva">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Masculino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="87" g="128" b="42"/>
+        <viz:size value="2"/>
+        <viz:position x="-55.331581115722656" y="19.19767951965332"/>
+      </node>
+      <node id="Maria Dora Genis Mourão" label="Maria Dora Genis Mourão">
+        <attvalues>
+          <attvalue for="bipartite" value="0"/>
+          <attvalue for="genero" value="Feminino"/>
+          <attvalue for="rawSize" value="2"/>
+        </attvalues>
+        <viz:color r="145" g="70" b="156"/>
+        <viz:size value="2"/>
+        <viz:position x="-3.0325441360473633" y="60.48242950439453"/>
+      </node>
+      <node id="Feminino" label="Feminino">
+        <attvalues>
+          <attvalue for="rawSize" value="6.666666666666667"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="6.666666666666667"/>
+        <viz:position x="-16.17528306095769" y="77.37660008723063"/>
+      </node>
+      <node id="Violência Física" label="Violência Física">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="67.86398315429688" y="15.615735054016113"/>
+      </node>
+      <node id="Tortura" label="Tortura">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="78.70977020263672" y="8.999908447265625"/>
+      </node>
+      <node id="Violência de Gênero" label="Violência de Gênero">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="70.4892807006836" y="70.20292663574219"/>
+      </node>
+      <node id="Violência Psicológica" label="Violência Psicológica">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="54.237918853759766" y="-27.464216232299805"/>
+      </node>
+      <node id="Prisão" label="Prisão">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="28.263713836669922" y="35.38026809692383"/>
+      </node>
+      <node id="Não detalha" label="Não detalha">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="-73.39529418945312" y="44.74170684814453"/>
+      </node>
+      <node id="Masculino" label="Masculino">
+        <attvalues>
+          <attvalue for="rawSize" value="6.666666666666667"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="6.666666666666667"/>
+        <viz:position x="53.770023638696074" y="-51.55065938626007"/>
+      </node>
+      <node id="Perseguição Política" label="Perseguição Política">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="-18.331504821777344" y="8.087372779846191"/>
+      </node>
+      <node id="Violência Moral/Institucional" label="Violência Moral/Institucional">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="-29.785552978515625" y="-23.416257858276367"/>
+      </node>
+      <node id="Violência Sexual" label="Violência Sexual">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="89.95476531982422" y="74.39234161376953"/>
+      </node>
+      <node id="Assassinato/Execução" label="Assassinato/Execução">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="87.0989990234375" y="40.92421340942383"/>
+      </node>
+      <node id="Violência sob Ocultação" label="Violência sob Ocultação">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="87.76134490966797" y="-8.352468490600586"/>
+      </node>
+      <node id="Desaparecimento" label="Desaparecimento">
+        <attvalues>
+          <attvalue for="bipartite" value="1"/>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="4"/>
+        <viz:position x="57.334510803222656" y="61.795433044433594"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_257_0" source="Márcia Basseto Paes" target="Feminino"/>
+      <edge id="geid_257_1" source="Márcia Basseto Paes" target="Violência Física"/>
+      <edge id="geid_257_2" source="Márcia Basseto Paes" target="Tortura"/>
+      <edge id="geid_257_3" source="Márcia Basseto Paes" target="Violência de Gênero"/>
+      <edge id="geid_257_4" source="Márcia Basseto Paes" target="Violência Psicológica"/>
+      <edge id="geid_257_5" source="Célia Regina Barboza Ramos" target="Feminino"/>
+      <edge id="geid_257_6" source="Célia Regina Barboza Ramos" target="Prisão"/>
+      <edge id="geid_257_7" source="Célia Regina Barboza Ramos" target="Não detalha"/>
+      <edge id="geid_257_8" source="Geraldo Augusto de Siqueira Filho" target="Masculino"/>
+      <edge id="geid_257_9" source="Geraldo Augusto de Siqueira Filho" target="Violência Física"/>
+      <edge id="geid_257_10" source="Geraldo Augusto de Siqueira Filho" target="Tortura"/>
+      <edge id="geid_257_11" source="Geraldo Augusto de Siqueira Filho" target="Perseguição Política"/>
+      <edge id="geid_257_12" source="Geraldo Augusto de Siqueira Filho" target="Prisão"/>
+      <edge id="geid_257_13" source="Geraldo Augusto de Siqueira Filho" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_14" source="Hebert William Couto Melo (Piauí)" target="Masculino"/>
+      <edge id="geid_257_15" source="Hebert William Couto Melo (Piauí)" target="Prisão"/>
+      <edge id="geid_257_16" source="Hebert William Couto Melo (Piauí)" target="Tortura"/>
+      <edge id="geid_257_17" source="Hebert William Couto Melo (Piauí)" target="Violência Psicológica"/>
+      <edge id="geid_257_18" source="Anitta Maria Fabri" target="Feminino"/>
+      <edge id="geid_257_19" source="Anitta Maria Fabri" target="Violência de Gênero"/>
+      <edge id="geid_257_20" source="Anitta Maria Fabri" target="Violência Física"/>
+      <edge id="geid_257_21" source="Anitta Maria Fabri" target="Tortura"/>
+      <edge id="geid_257_22" source="Anitta Maria Fabri" target="Violência Psicológica"/>
+      <edge id="geid_257_23" source="Anitta Maria Fabri" target="Prisão"/>
+      <edge id="geid_257_24" source="Anitta Maria Fabri" target="Perseguição Política"/>
+      <edge id="geid_257_25" source="Anitta Maria Fabri" target="Violência Sexual"/>
+      <edge id="geid_257_26" source="José Maria Filardo Bassalo" target="Masculino"/>
+      <edge id="geid_257_27" source="José Maria Filardo Bassalo" target="Prisão"/>
+      <edge id="geid_257_28" source="José Maria Filardo Bassalo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_29" source="Paulo Markun" target="Masculino"/>
+      <edge id="geid_257_30" source="Paulo Markun" target="Não detalha"/>
+      <edge id="geid_257_31" source="Walter da Silva" target="Masculino"/>
+      <edge id="geid_257_32" source="Walter da Silva" target="Não detalha"/>
+      <edge id="geid_257_33" source="Mario Wajc" target="Masculino"/>
+      <edge id="geid_257_34" source="Mario Wajc" target="Não detalha"/>
+      <edge id="geid_257_35" source="Adriano Diogo" target="Masculino"/>
+      <edge id="geid_257_36" source="Adriano Diogo" target="Violência Psicológica"/>
+      <edge id="geid_257_37" source="Adriano Diogo" target="Tortura"/>
+      <edge id="geid_257_38" source="Adriano Diogo" target="Prisão"/>
+      <edge id="geid_257_39" source="Arnaldo Schreiner" target="Masculino"/>
+      <edge id="geid_257_40" source="Arnaldo Schreiner" target="Prisão"/>
+      <edge id="geid_257_41" source="Arnaldo Schreiner" target="Tortura"/>
+      <edge id="geid_257_42" source="José Roberto Michelazzo" target="Masculino"/>
+      <edge id="geid_257_43" source="José Roberto Michelazzo" target="Violência Física"/>
+      <edge id="geid_257_44" source="José Roberto Michelazzo" target="Perseguição Política"/>
+      <edge id="geid_257_45" source="José Roberto Michelazzo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_46" source="José Roberto Michelazzo" target="Prisão"/>
+      <edge id="geid_257_47" source="José Roberto Michelazzo" target="Tortura"/>
+      <edge id="geid_257_48" source="José Roberto Michelazzo" target="Violência Psicológica"/>
+      <edge id="geid_257_49" source="Robson Corrêa de Camargo" target="Masculino"/>
+      <edge id="geid_257_50" source="Robson Corrêa de Camargo" target="Violência Psicológica"/>
+      <edge id="geid_257_51" source="Robson Corrêa de Camargo" target="Perseguição Política"/>
+      <edge id="geid_257_52" source="Pedro Rocha Filho" target="Masculino"/>
+      <edge id="geid_257_53" source="Pedro Rocha Filho" target="Violência Física"/>
+      <edge id="geid_257_54" source="Pedro Rocha Filho" target="Tortura"/>
+      <edge id="geid_257_55" source="Pedro Rocha Filho" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_56" source="Ronaldo Eduardo Almeida" target="Masculino"/>
+      <edge id="geid_257_57" source="Ronaldo Eduardo Almeida" target="Violência Psicológica"/>
+      <edge id="geid_257_58" source="Sérgio Ferro" target="Masculino"/>
+      <edge id="geid_257_59" source="Sérgio Ferro" target="Tortura"/>
+      <edge id="geid_257_60" source="Sérgio Ferro" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_61" source="João Batista Villanova Artigas" target="Masculino"/>
+      <edge id="geid_257_62" source="João Batista Villanova Artigas" target="Perseguição Política"/>
+      <edge id="geid_257_63" source="João Batista Villanova Artigas" target="Violência Psicológica"/>
+      <edge id="geid_257_64" source="João Batista Villanova Artigas" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_65" source="João Batista Villanova Artigas" target="Prisão"/>
+      <edge id="geid_257_66" source="Eduardo Manzano" target="Masculino"/>
+      <edge id="geid_257_67" source="Eduardo Manzano" target="Perseguição Política"/>
+      <edge id="geid_257_68" source="Victor Nussenzweig" target="Masculino"/>
+      <edge id="geid_257_69" source="Victor Nussenzweig" target="Violência Psicológica"/>
+      <edge id="geid_257_70" source="Isaias Raw" target="Masculino"/>
+      <edge id="geid_257_71" source="Isaias Raw" target="Prisão"/>
+      <edge id="geid_257_72" source="Isaias Raw" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_73" source="Thomas Maack" target="Masculino"/>
+      <edge id="geid_257_74" source="Thomas Maack" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_75" source="Thomas Maack" target="Violência Psicológica"/>
+      <edge id="geid_257_76" source="Thomas Maack" target="Perseguição Política"/>
+      <edge id="geid_257_77" source="Thomas Maack" target="Violência Física"/>
+      <edge id="geid_257_78" source="Thomas Maack" target="Prisão"/>
+      <edge id="geid_257_79" source="Alexander José Ibsen Voeroes" target="Masculino"/>
+      <edge id="geid_257_80" source="Alexander José Ibsen Voeroes" target="Violência Física"/>
+      <edge id="geid_257_81" source="Alexandre Vannuchi Leme" target="Masculino"/>
+      <edge id="geid_257_82" source="Alexandre Vannuchi Leme" target="Assassinato/Execução"/>
+      <edge id="geid_257_83" source="Alexandre Vannuchi Leme" target="Tortura"/>
+      <edge id="geid_257_84" source="Alexandre Vannuchi Leme" target="Prisão"/>
+      <edge id="geid_257_85" source="Ana Rosa Kucinski" target="Feminino"/>
+      <edge id="geid_257_86" source="Ana Rosa Kucinski" target="Não detalha"/>
+      <edge id="geid_257_87" source="Fernando Henrique Cardoso" target="Masculino"/>
+      <edge id="geid_257_88" source="Fernando Henrique Cardoso" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_89" source="Fernando Henrique Cardoso" target="Perseguição Política"/>
+      <edge id="geid_257_90" source="João Cruz Costa" target="Masculino"/>
+      <edge id="geid_257_91" source="João Cruz Costa" target="Não detalha"/>
+      <edge id="geid_257_92" source="Florestan Fernandes" target="Masculino"/>
+      <edge id="geid_257_93" source="Florestan Fernandes" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_94" source="Florestan Fernandes" target="Perseguição Política"/>
+      <edge id="geid_257_95" source="Mário Schenberg" target="Masculino"/>
+      <edge id="geid_257_96" source="Mário Schenberg" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_97" source="Mário Schenberg" target="Perseguição Política"/>
+      <edge id="geid_257_98" source="Nuno Fidelino de Figueiredo" target="Masculino"/>
+      <edge id="geid_257_99" source="Nuno Fidelino de Figueiredo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_100" source="Lenina Pomeranz" target="Feminino"/>
+      <edge id="geid_257_101" source="Lenina Pomeranz" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_102" source="Mário Wagner" target="Masculino"/>
+      <edge id="geid_257_103" source="Mário Wagner" target="Não detalha"/>
+      <edge id="geid_257_104" source="Paulo Singer" target="Masculino"/>
+      <edge id="geid_257_105" source="Paulo Singer" target="Não detalha"/>
+      <edge id="geid_257_106" source="Abelardo Riedy de Souza" target="Masculino"/>
+      <edge id="geid_257_107" source="Abelardo Riedy de Souza" target="Não detalha"/>
+      <edge id="geid_257_108" source="Erney Felício Plessmann de Camargo" target="Masculino"/>
+      <edge id="geid_257_109" source="Erney Felício Plessmann de Camargo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_110" source="Erney Felício Plessmann de Camargo" target="Perseguição Política"/>
+      <edge id="geid_257_111" source="Erney Felício Plessmann de Camargo" target="Prisão"/>
+      <edge id="geid_257_112" source="Israel Nussenzveig" target="Masculino"/>
+      <edge id="geid_257_113" source="Israel Nussenzveig" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_114" source="Israel Nussenzveig" target="Perseguição Política"/>
+      <edge id="geid_257_115" source="José Mario Taques Bittencourt" target="Masculino"/>
+      <edge id="geid_257_116" source="José Mario Taques Bittencourt" target="Não detalha"/>
+      <edge id="geid_257_117" source="Júlio Pudles" target="Masculino"/>
+      <edge id="geid_257_118" source="Júlio Pudles" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_119" source="Júlio Pudles" target="Perseguição Política"/>
+      <edge id="geid_257_120" source="Luiz Hildebrando Pereira da Silva" target="Masculino"/>
+      <edge id="geid_257_121" source="Luiz Hildebrando Pereira da Silva" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_122" source="Luiz Hildebrando Pereira da Silva" target="Perseguição Política"/>
+      <edge id="geid_257_123" source="Luiz Hildebrando Pereira da Silva" target="Prisão"/>
+      <edge id="geid_257_124" source="Michel P. Rabinovitch" target="Masculino"/>
+      <edge id="geid_257_125" source="Michel P. Rabinovitch" target="Perseguição Política"/>
+      <edge id="geid_257_126" source="Nelson Rodrigues dos Santos" target="Masculino"/>
+      <edge id="geid_257_127" source="Nelson Rodrigues dos Santos" target="Prisão"/>
+      <edge id="geid_257_128" source="Nelson Rodrigues dos Santos" target="Tortura"/>
+      <edge id="geid_257_129" source="Nelson Rodrigues dos Santos" target="Perseguição Política"/>
+      <edge id="geid_257_130" source="Nelson Rodrigues dos Santos" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_131" source="Pedro Henrique Saldanha" target="Masculino"/>
+      <edge id="geid_257_132" source="Pedro Henrique Saldanha" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_133" source="Pedro Henrique Saldanha" target="Perseguição Política"/>
+      <edge id="geid_257_134" source="Reynaldo Chiaverini" target="Masculino"/>
+      <edge id="geid_257_135" source="Reynaldo Chiaverini" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_136" source="Reynaldo Chiaverini" target="Perseguição Política"/>
+      <edge id="geid_257_137" source="Jayme Tiomno" target="Masculino"/>
+      <edge id="geid_257_138" source="Jayme Tiomno" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_139" source="Jayme Tiomno" target="Perseguição Política"/>
+      <edge id="geid_257_140" source="Alberto de Carvalho da Silva" target="Masculino"/>
+      <edge id="geid_257_141" source="Alberto de Carvalho da Silva" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_142" source="Caio Prado Júnior" target="Masculino"/>
+      <edge id="geid_257_143" source="Caio Prado Júnior" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_144" source="Elza Salvatori Berquó" target="Feminino"/>
+      <edge id="geid_257_145" source="Elza Salvatori Berquó" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_146" source="Emília Viotti da Costa" target="Feminino"/>
+      <edge id="geid_257_147" source="Emília Viotti da Costa" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_148" source="Emília Viotti da Costa" target="Perseguição Política"/>
+      <edge id="geid_257_149" source="Hélio Lourenço de Oliveira" target="Masculino"/>
+      <edge id="geid_257_150" source="Hélio Lourenço de Oliveira" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_151" source="Hélio Lourenço de Oliveira" target="Perseguição Política"/>
+      <edge id="geid_257_152" source="Isaías Raw" target="Masculino"/>
+      <edge id="geid_257_153" source="Isaías Raw" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_154" source="Isaías Raw" target="Prisão"/>
+      <edge id="geid_257_155" source="Isaías Raw" target="Perseguição Política"/>
+      <edge id="geid_257_156" source="Jean-Claude Bernardet" target="Masculino"/>
+      <edge id="geid_257_157" source="Jean-Claude Bernardet" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_158" source="Jean-Claude Bernardet" target="Perseguição Política"/>
+      <edge id="geid_257_159" source="Jon Andoni Vergareche Maitrejean" target="Masculino"/>
+      <edge id="geid_257_160" source="Jon Andoni Vergareche Maitrejean" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_161" source="José Arthur Gianotti" target="Masculino"/>
+      <edge id="geid_257_162" source="José Arthur Gianotti" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_163" source="José Arthur Gianotti" target="Perseguição Política"/>
+      <edge id="geid_257_164" source="Luiz Rey" target="Masculino"/>
+      <edge id="geid_257_165" source="Luiz Rey" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_166" source="Luiz Rey" target="Perseguição Política"/>
+      <edge id="geid_257_167" source="Octávio Ianni" target="Masculino"/>
+      <edge id="geid_257_168" source="Octávio Ianni" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_169" source="Octávio Ianni" target="Perseguição Política"/>
+      <edge id="geid_257_170" source="Olga Baeta Henriques" target="Feminino"/>
+      <edge id="geid_257_171" source="Olga Baeta Henriques" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_172" source="Paula Beiguelman" target="Feminino"/>
+      <edge id="geid_257_173" source="Paula Beiguelman" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_174" source="Paula Beiguelman" target="Perseguição Política"/>
+      <edge id="geid_257_175" source="Israel Singer" target="Masculino"/>
+      <edge id="geid_257_176" source="Israel Singer" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_177" source="Sebastião Baeta Henriques" target="Masculino"/>
+      <edge id="geid_257_178" source="Sebastião Baeta Henriques" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_179" source="Pedro Calil Padis" target="Masculino"/>
+      <edge id="geid_257_180" source="Pedro Calil Padis" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_181" source="Antônio Dácio Franco do Amaral" target="Masculino"/>
+      <edge id="geid_257_182" source="Antônio Dácio Franco do Amaral" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_183" source="Leonidas de Mello Deane" target="Masculino"/>
+      <edge id="geid_257_184" source="Leonidas de Mello Deane" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_185" source="Maria José Deane" target="Feminino"/>
+      <edge id="geid_257_186" source="Maria José Deane" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_187" source="Ada Natal Rodrigues" target="Feminino"/>
+      <edge id="geid_257_188" source="Ada Natal Rodrigues" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_189" source="Ada Natal Rodrigues" target="Violência Psicológica"/>
+      <edge id="geid_257_190" source="Ada Natal Rodrigues" target="Violência de Gênero"/>
+      <edge id="geid_257_191" source="Ada Natal Rodrigues" target="Perseguição Política"/>
+      <edge id="geid_257_192" source="Célia Nunes Galvão Quirino dos Santos" target="Feminino"/>
+      <edge id="geid_257_193" source="Célia Nunes Galvão Quirino dos Santos" target="Prisão"/>
+      <edge id="geid_257_194" source="Célia Nunes Galvão Quirino dos Santos" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_195" source="Célia Nunes Galvão Quirino dos Santos" target="Violência de Gênero"/>
+      <edge id="geid_257_196" source="Célia Nunes Galvão Quirino dos Santos" target="Violência Psicológica"/>
+      <edge id="geid_257_197" source="Célia Nunes Galvão Quirino dos Santos" target="Tortura"/>
+      <edge id="geid_257_198" source="Célia Nunes Galvão Quirino dos Santos" target="Violência Física"/>
+      <edge id="geid_257_199" source="Célia Nunes Galvão Quirino dos Santos" target="Perseguição Política"/>
+      <edge id="geid_257_200" source="José Francisco Quirino dos Santos" target="Masculino"/>
+      <edge id="geid_257_201" source="José Francisco Quirino dos Santos" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_202" source="José Francisco Quirino dos Santos" target="Prisão"/>
+      <edge id="geid_257_203" source="Bento Paulo Almeida Ferraz Junior" target="Masculino"/>
+      <edge id="geid_257_204" source="Bento Paulo Almeida Ferraz Junior" target="Perseguição Política"/>
+      <edge id="geid_257_205" source="Bento Paulo Almeida Ferraz Junior" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_206" source="Ruy Fausto" target="Masculino"/>
+      <edge id="geid_257_207" source="Ruy Fausto" target="Violência Psicológica"/>
+      <edge id="geid_257_208" source="Ruy Fausto" target="Perseguição Política"/>
+      <edge id="geid_257_209" source="Ulysses Telles Guariba Neto" target="Masculino"/>
+      <edge id="geid_257_210" source="Ulysses Telles Guariba Neto" target="Violência Psicológica"/>
+      <edge id="geid_257_211" source="Ulysses Telles Guariba Neto" target="Perseguição Política"/>
+      <edge id="geid_257_212" source="Abel Bella" target="Masculino"/>
+      <edge id="geid_257_213" source="Abel Bella" target="Prisão"/>
+      <edge id="geid_257_214" source="Abel Bella" target="Perseguição Política"/>
+      <edge id="geid_257_215" source="Caio Venâncio Martins" target="Masculino"/>
+      <edge id="geid_257_216" source="Caio Venâncio Martins" target="Perseguição Política"/>
+      <edge id="geid_257_217" source="Caio Venâncio Martins" target="Prisão"/>
+      <edge id="geid_257_218" source="Carlos Fernando da Rocha Medeiros" target="Masculino"/>
+      <edge id="geid_257_219" source="Carlos Fernando da Rocha Medeiros" target="Prisão"/>
+      <edge id="geid_257_220" source="Carlos Fernando da Rocha Medeiros" target="Tortura"/>
+      <edge id="geid_257_221" source="Carlos Fernando da Rocha Medeiros" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_222" source="Carlos Fernando da Rocha Medeiros" target="Perseguição Política"/>
+      <edge id="geid_257_223" source="Carlos Yoshikazu Takoaka" target="Masculino"/>
+      <edge id="geid_257_224" source="Carlos Yoshikazu Takoaka" target="Prisão"/>
+      <edge id="geid_257_225" source="Carlos Yoshikazu Takoaka" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_226" source="Carlos Yoshikazu Takoaka" target="Perseguição Política"/>
+      <edge id="geid_257_227" source="Enzo Luiz Nico Jr" target="Masculino"/>
+      <edge id="geid_257_228" source="Enzo Luiz Nico Jr" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_229" source="Enzo Luiz Nico Jr" target="Perseguição Política"/>
+      <edge id="geid_257_230" source="Gilberto Luciano Belloque" target="Masculino"/>
+      <edge id="geid_257_231" source="Gilberto Luciano Belloque" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_232" source="Gilberto Luciano Belloque" target="Prisão"/>
+      <edge id="geid_257_233" source="Gilberto Luciano Belloque" target="Perseguição Política"/>
+      <edge id="geid_257_234" source="Nathanael de Moura Giraldi" target="Masculino"/>
+      <edge id="geid_257_235" source="Nathanael de Moura Giraldi" target="Prisão"/>
+      <edge id="geid_257_236" source="Nathanael de Moura Giraldi" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_237" source="Nathanael de Moura Giraldi" target="Perseguição Política"/>
+      <edge id="geid_257_238" source="Otavio Mielnik" target="Masculino"/>
+      <edge id="geid_257_239" source="Otavio Mielnik" target="Prisão"/>
+      <edge id="geid_257_240" source="Otavio Mielnik" target="Perseguição Política"/>
+      <edge id="geid_257_241" source="Ottoni Guimarães Fernandes Jr" target="Masculino"/>
+      <edge id="geid_257_242" source="Ottoni Guimarães Fernandes Jr" target="Prisão"/>
+      <edge id="geid_257_243" source="Ottoni Guimarães Fernandes Jr" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_244" source="Ottoni Guimarães Fernandes Jr" target="Perseguição Política"/>
+      <edge id="geid_257_245" source="Paulo Roberto Beskow" target="Masculino"/>
+      <edge id="geid_257_246" source="Paulo Roberto Beskow" target="Violência Psicológica"/>
+      <edge id="geid_257_247" source="Paulo Roberto Beskow" target="Tortura"/>
+      <edge id="geid_257_248" source="Paulo Roberto Beskow" target="Prisão"/>
+      <edge id="geid_257_249" source="Paulo Roberto Beskow" target="Violência Física"/>
+      <edge id="geid_257_250" source="Paulo Roberto Beskow" target="Perseguição Política"/>
+      <edge id="geid_257_251" source="Paulo Roberto Beskow" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_252" source="Paulo de Tarso Vannuchi" target="Masculino"/>
+      <edge id="geid_257_253" source="Paulo de Tarso Vannuchi" target="Prisão"/>
+      <edge id="geid_257_254" source="Paulo de Tarso Vannuchi" target="Perseguição Política"/>
+      <edge id="geid_257_255" source="Paulo de Tarso Vannuchi" target="Tortura"/>
+      <edge id="geid_257_256" source="Paulo de Tarso Wenceslau" target="Masculino"/>
+      <edge id="geid_257_257" source="Paulo de Tarso Wenceslau" target="Prisão"/>
+      <edge id="geid_257_258" source="Paulo de Tarso Wenceslau" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_259" source="Paulo de Tarso Wenceslau" target="Perseguição Política"/>
+      <edge id="geid_257_260" source="Pedro de Camargo" target="Masculino"/>
+      <edge id="geid_257_261" source="Pedro de Camargo" target="Perseguição Política"/>
+      <edge id="geid_257_262" source="Pedro de Camargo" target="Prisão"/>
+      <edge id="geid_257_263" source="William Martani" target="Masculino"/>
+      <edge id="geid_257_264" source="William Martani" target="Perseguição Política"/>
+      <edge id="geid_257_265" source="William Martani" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_266" source="ANTONIO BENETAZZO" target="Masculino"/>
+      <edge id="geid_257_267" source="ANTONIO BENETAZZO" target="Assassinato/Execução"/>
+      <edge id="geid_257_268" source="ANTONIO BENETAZZO" target="Tortura"/>
+      <edge id="geid_257_269" source="Antônio Carlos Nogueira Cabral" target="Masculino"/>
+      <edge id="geid_257_270" source="Antônio Carlos Nogueira Cabral" target="Assassinato/Execução"/>
+      <edge id="geid_257_271" source="Antônio Carlos Nogueira Cabral" target="Violência Física"/>
+      <edge id="geid_257_272" source="Antônio Carlos Nogueira Cabral" target="Prisão"/>
+      <edge id="geid_257_273" source="Arno Preis" target="Masculino"/>
+      <edge id="geid_257_274" source="Arno Preis" target="Assassinato/Execução"/>
+      <edge id="geid_257_275" source="Arno Preis" target="Perseguição Política"/>
+      <edge id="geid_257_276" source="Aurora Maria Nascimento Furtado" target="Feminino"/>
+      <edge id="geid_257_277" source="Aurora Maria Nascimento Furtado" target="Assassinato/Execução"/>
+      <edge id="geid_257_278" source="Aurora Maria Nascimento Furtado" target="Prisão"/>
+      <edge id="geid_257_279" source="Aurora Maria Nascimento Furtado" target="Tortura"/>
+      <edge id="geid_257_280" source="Aurora Maria Nascimento Furtado" target="Violência de Gênero"/>
+      <edge id="geid_257_281" source="Boanerges de Souza Massa" target="Masculino"/>
+      <edge id="geid_257_282" source="Boanerges de Souza Massa" target="Prisão"/>
+      <edge id="geid_257_283" source="Boanerges de Souza Massa" target="Assassinato/Execução"/>
+      <edge id="geid_257_284" source="Carlos Eduardo Pires Fleury" target="Masculino"/>
+      <edge id="geid_257_285" source="Carlos Eduardo Pires Fleury" target="Tortura"/>
+      <edge id="geid_257_286" source="Carlos Eduardo Pires Fleury" target="Assassinato/Execução"/>
+      <edge id="geid_257_287" source="Catarina Helena Abi-Eçab" target="Feminino"/>
+      <edge id="geid_257_288" source="Catarina Helena Abi-Eçab" target="Assassinato/Execução"/>
+      <edge id="geid_257_289" source="Catarina Helena Abi-Eçab" target="Violência sob Ocultação"/>
+      <edge id="geid_257_290" source="Fernando Borges de Paula Ferreira" target="Masculino"/>
+      <edge id="geid_257_291" source="Fernando Borges de Paula Ferreira" target="Assassinato/Execução"/>
+      <edge id="geid_257_292" source="Fernando Borges de Paula Ferreira" target="Prisão"/>
+      <edge id="geid_257_293" source="Francisco José de Oliveira" target="Masculino"/>
+      <edge id="geid_257_294" source="Francisco José de Oliveira" target="Assassinato/Execução"/>
+      <edge id="geid_257_295" source="Francisco José de Oliveira" target="Violência sob Ocultação"/>
+      <edge id="geid_257_296" source="Jon Andoni Maitrejean" target="Masculino"/>
+      <edge id="geid_257_297" source="Jon Andoni Maitrejean" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_298" source="Jon Andoni Maitrejean" target="Perseguição Política"/>
+      <edge id="geid_257_299" source="Paulo Mendes da Rocha" target="Masculino"/>
+      <edge id="geid_257_300" source="Paulo Mendes da Rocha" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_301" source="Paulo Mendes da Rocha" target="Perseguição Política"/>
+      <edge id="geid_257_302" source="Decio Tozzi" target="Masculino"/>
+      <edge id="geid_257_303" source="Decio Tozzi" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_304" source="Decio Tozzi" target="Perseguição Política"/>
+      <edge id="geid_257_305" source="Rodrigo Brotero Lefèvre" target="Masculino"/>
+      <edge id="geid_257_306" source="Rodrigo Brotero Lefèvre" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_307" source="Rodrigo Brotero Lefèvre" target="Perseguição Política"/>
+      <edge id="geid_257_308" source="Paulo Cesar Xavier Pereira" target="Masculino"/>
+      <edge id="geid_257_309" source="Paulo Cesar Xavier Pereira" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_310" source="Paulo Cesar Xavier Pereira" target="Prisão"/>
+      <edge id="geid_257_311" source="Paulo Cesar Xavier Pereira" target="Perseguição Política"/>
+      <edge id="geid_257_312" source="Pedro d'Aléssio" target="Masculino"/>
+      <edge id="geid_257_313" source="Pedro d'Aléssio" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_314" source="Pedro d'Aléssio" target="Perseguição Política"/>
+      <edge id="geid_257_315" source="Ricardo Itsuo Ohtake" target="Masculino"/>
+      <edge id="geid_257_316" source="Ricardo Itsuo Ohtake" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_317" source="Ricardo Itsuo Ohtake" target="Perseguição Política"/>
+      <edge id="geid_257_318" source="Ricardo Itsuo Ohtake" target="Prisão"/>
+      <edge id="geid_257_319" source="Mayumi Watanabe de Souza Lima" target="Feminino"/>
+      <edge id="geid_257_320" source="Mayumi Watanabe de Souza Lima" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_321" source="Mayumi Watanabe de Souza Lima" target="Perseguição Política"/>
+      <edge id="geid_257_322" source="Mayumi Watanabe de Souza Lima" target="Violência Psicológica"/>
+      <edge id="geid_257_323" source="Sérgio Pereira de Souza Lima" target="Masculino"/>
+      <edge id="geid_257_324" source="Sérgio Pereira de Souza Lima" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_325" source="Sérgio Pereira de Souza Lima" target="Perseguição Política"/>
+      <edge id="geid_257_326" source="Janice Theodoro Da Silva" target="Feminino"/>
+      <edge id="geid_257_327" source="Janice Theodoro Da Silva" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_328" source="Janice Theodoro Da Silva" target="Perseguição Política"/>
+      <edge id="geid_257_329" source="Sergio Paulo Moreyra" target="Masculino"/>
+      <edge id="geid_257_330" source="Sergio Paulo Moreyra" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_331" source="Sergio Paulo Moreyra" target="Perseguição Política"/>
+      <edge id="geid_257_332" source="Irineu Mangilli Filho" target="Masculino"/>
+      <edge id="geid_257_333" source="Irineu Mangilli Filho" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_334" source="Irineu Mangilli Filho" target="Perseguição Política"/>
+      <edge id="geid_257_335" source="Carlos Roberto Monteiro de Andrade" target="Masculino"/>
+      <edge id="geid_257_336" source="Carlos Roberto Monteiro de Andrade" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_337" source="Carlos Roberto Monteiro de Andrade" target="Perseguição Política"/>
+      <edge id="geid_257_338" source="João Leonardo da Silva Rocha" target="Masculino"/>
+      <edge id="geid_257_339" source="João Leonardo da Silva Rocha" target="Violência Física"/>
+      <edge id="geid_257_340" source="João Leonardo da Silva Rocha" target="Tortura"/>
+      <edge id="geid_257_341" source="João Leonardo da Silva Rocha" target="Perseguição Política"/>
+      <edge id="geid_257_342" source="João Leonardo da Silva Rocha" target="Violência Psicológica"/>
+      <edge id="geid_257_343" source="João Leonardo da Silva Rocha" target="Desaparecimento"/>
+      <edge id="geid_257_344" source="Gelson Reicher" target="Masculino"/>
+      <edge id="geid_257_345" source="Gelson Reicher" target="Violência Física"/>
+      <edge id="geid_257_346" source="Gelson Reicher" target="Assassinato/Execução"/>
+      <edge id="geid_257_347" source="Helenira Resende de Souza Nazareth" target="Feminino"/>
+      <edge id="geid_257_348" source="Helenira Resende de Souza Nazareth" target="Violência Física"/>
+      <edge id="geid_257_349" source="Helenira Resende de Souza Nazareth" target="Tortura"/>
+      <edge id="geid_257_350" source="Helenira Resende de Souza Nazareth" target="Violência de Gênero"/>
+      <edge id="geid_257_351" source="Helenira Resende de Souza Nazareth" target="Assassinato/Execução"/>
+      <edge id="geid_257_352" source="Helenira Resende de Souza Nazareth" target="Desaparecimento"/>
+      <edge id="geid_257_353" source="Helenira Resende de Souza Nazareth" target="Violência Sexual"/>
+      <edge id="geid_257_354" source="José Roberto Arantes de Almeida" target="Masculino"/>
+      <edge id="geid_257_355" source="José Roberto Arantes de Almeida" target="Violência Física"/>
+      <edge id="geid_257_356" source="José Roberto Arantes de Almeida" target="Violência Psicológica"/>
+      <edge id="geid_257_357" source="José Roberto Arantes de Almeida" target="Tortura"/>
+      <edge id="geid_257_358" source="José Roberto Arantes de Almeida" target="Prisão"/>
+      <edge id="geid_257_359" source="Heleny Ferreira Telles Guariba" target="Feminino"/>
+      <edge id="geid_257_360" source="Heleny Ferreira Telles Guariba" target="Violência Física"/>
+      <edge id="geid_257_361" source="Heleny Ferreira Telles Guariba" target="Prisão"/>
+      <edge id="geid_257_362" source="Alfredo José Medeiros Aires" target="Masculino"/>
+      <edge id="geid_257_363" source="Alfredo José Medeiros Aires" target="Prisão"/>
+      <edge id="geid_257_364" source="Alfredo José Medeiros Aires" target="Perseguição Política"/>
+      <edge id="geid_257_365" source="Alvaro Augusto Wolmer" target="Masculino"/>
+      <edge id="geid_257_366" source="Alvaro Augusto Wolmer" target="Prisão"/>
+      <edge id="geid_257_367" source="Alvaro Augusto Wolmer" target="Perseguição Política"/>
+      <edge id="geid_257_368" source="Ana Cristina Frias Pereira" target="Feminino"/>
+      <edge id="geid_257_369" source="Ana Cristina Frias Pereira" target="Prisão"/>
+      <edge id="geid_257_370" source="Ana Cristina Frias Pereira" target="Perseguição Política"/>
+      <edge id="geid_257_371" source="Bartira Velludo Varella Costa" target="Feminino"/>
+      <edge id="geid_257_372" source="Bartira Velludo Varella Costa" target="Prisão"/>
+      <edge id="geid_257_373" source="Bartira Velludo Varella Costa" target="Perseguição Política"/>
+      <edge id="geid_257_374" source="Carlos Egídio Alonso" target="Masculino"/>
+      <edge id="geid_257_375" source="Carlos Egídio Alonso" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_376" source="Carlos Egídio Alonso" target="Perseguição Política"/>
+      <edge id="geid_257_377" source="Carlos Henrique Heck" target="Masculino"/>
+      <edge id="geid_257_378" source="Carlos Henrique Heck" target="Prisão"/>
+      <edge id="geid_257_379" source="Carlos Henrique Heck" target="Perseguição Política"/>
+      <edge id="geid_257_380" source="Eduardo Trani" target="Masculino"/>
+      <edge id="geid_257_381" source="Eduardo Trani" target="Prisão"/>
+      <edge id="geid_257_382" source="Eduardo Trani" target="Perseguição Política"/>
+      <edge id="geid_257_383" source="Franscisco Marsicano Guedes" target="Masculino"/>
+      <edge id="geid_257_384" source="Franscisco Marsicano Guedes" target="Prisão"/>
+      <edge id="geid_257_385" source="Franscisco Marsicano Guedes" target="Perseguição Política"/>
+      <edge id="geid_257_386" source="Geraldo de Souza Dias Filho" target="Masculino"/>
+      <edge id="geid_257_387" source="Geraldo de Souza Dias Filho" target="Prisão"/>
+      <edge id="geid_257_388" source="Geraldo de Souza Dias Filho" target="Perseguição Política"/>
+      <edge id="geid_257_389" source="Gilberto Franco" target="Masculino"/>
+      <edge id="geid_257_390" source="Gilberto Franco" target="Prisão"/>
+      <edge id="geid_257_391" source="Gilberto Franco" target="Perseguição Política"/>
+      <edge id="geid_257_392" source="Horacio Calligaris Galvanese" target="Masculino"/>
+      <edge id="geid_257_393" source="Horacio Calligaris Galvanese" target="Prisão"/>
+      <edge id="geid_257_394" source="Horacio Calligaris Galvanese" target="Perseguição Política"/>
+      <edge id="geid_257_395" source="Jonas Tadeu Silva Malaco" target="Masculino"/>
+      <edge id="geid_257_396" source="Jonas Tadeu Silva Malaco" target="Prisão"/>
+      <edge id="geid_257_397" source="Jonas Tadeu Silva Malaco" target="Perseguição Política"/>
+      <edge id="geid_257_398" source="José Fabio Zamith Calazans" target="Masculino"/>
+      <edge id="geid_257_399" source="José Fabio Zamith Calazans" target="Prisão"/>
+      <edge id="geid_257_400" source="José Fabio Zamith Calazans" target="Perseguição Política"/>
+      <edge id="geid_257_401" source="José Jorge da Silva Franco" target="Masculino"/>
+      <edge id="geid_257_402" source="José Jorge da Silva Franco" target="Prisão"/>
+      <edge id="geid_257_403" source="José Jorge da Silva Franco" target="Perseguição Política"/>
+      <edge id="geid_257_404" source="José Salles Costa Filho" target="Masculino"/>
+      <edge id="geid_257_405" source="José Salles Costa Filho" target="Prisão"/>
+      <edge id="geid_257_406" source="José Salles Costa Filho" target="Perseguição Política"/>
+      <edge id="geid_257_407" source="Julio Barone" target="Masculino"/>
+      <edge id="geid_257_408" source="Julio Barone" target="Prisão"/>
+      <edge id="geid_257_409" source="Julio Barone" target="Perseguição Política"/>
+      <edge id="geid_257_410" source="Leonildo Benassi Sobrinho" target="Masculino"/>
+      <edge id="geid_257_411" source="Leonildo Benassi Sobrinho" target="Prisão"/>
+      <edge id="geid_257_412" source="Leonildo Benassi Sobrinho" target="Perseguição Política"/>
+      <edge id="geid_257_413" source="Manuel Arraiga de Castro Andrade Junior" target="Masculino"/>
+      <edge id="geid_257_414" source="Manuel Arraiga de Castro Andrade Junior" target="Prisão"/>
+      <edge id="geid_257_415" source="Manuel Arraiga de Castro Andrade Junior" target="Perseguição Política"/>
+      <edge id="geid_257_416" source="Henrique Cintra Ferreira de Ornellas" target="Masculino"/>
+      <edge id="geid_257_417" source="Henrique Cintra Ferreira de Ornellas" target="Prisão"/>
+      <edge id="geid_257_418" source="Henrique Cintra Ferreira de Ornellas" target="Violência Psicológica"/>
+      <edge id="geid_257_419" source="Henrique Cintra Ferreira de Ornellas" target="Violência sob Ocultação"/>
+      <edge id="geid_257_420" source="Henrique Cintra Ferreira de Ornellas" target="Perseguição Política"/>
+      <edge id="geid_257_421" source="Marcelo Carvalho Ferraz" target="Masculino"/>
+      <edge id="geid_257_422" source="Marcelo Carvalho Ferraz" target="Prisão"/>
+      <edge id="geid_257_423" source="Marcelo Carvalho Ferraz" target="Perseguição Política"/>
+      <edge id="geid_257_424" source="Marcelo Suzuki" target="Masculino"/>
+      <edge id="geid_257_425" source="Marcelo Suzuki" target="Prisão"/>
+      <edge id="geid_257_426" source="Marcelo Suzuki" target="Perseguição Política"/>
+      <edge id="geid_257_427" source="Marco Antonio Lopes Tabet" target="Masculino"/>
+      <edge id="geid_257_428" source="Marco Antonio Lopes Tabet" target="Prisão"/>
+      <edge id="geid_257_429" source="Marco Antonio Lopes Tabet" target="Perseguição Política"/>
+      <edge id="geid_257_430" source="Marcos Monteiro da Costa" target="Masculino"/>
+      <edge id="geid_257_431" source="Marcos Monteiro da Costa" target="Prisão"/>
+      <edge id="geid_257_432" source="Marcos Monteiro da Costa" target="Perseguição Política"/>
+      <edge id="geid_257_433" source="Miguel Antônio Buzzar" target="Masculino"/>
+      <edge id="geid_257_434" source="Miguel Antônio Buzzar" target="Prisão"/>
+      <edge id="geid_257_435" source="Miguel Antônio Buzzar" target="Perseguição Política"/>
+      <edge id="geid_257_436" source="Milton Assi Hatoum" target="Masculino"/>
+      <edge id="geid_257_437" source="Milton Assi Hatoum" target="Prisão"/>
+      <edge id="geid_257_438" source="Milton Assi Hatoum" target="Perseguição Política"/>
+      <edge id="geid_257_439" source="Raquel Rolnik" target="Feminino"/>
+      <edge id="geid_257_440" source="Raquel Rolnik" target="Prisão"/>
+      <edge id="geid_257_441" source="Raquel Rolnik" target="Perseguição Política"/>
+      <edge id="geid_257_442" source="Sergio Fingermann" target="Masculino"/>
+      <edge id="geid_257_443" source="Sergio Fingermann" target="Prisão"/>
+      <edge id="geid_257_444" source="Sergio Fingermann" target="Perseguição Política"/>
+      <edge id="geid_257_445" source="Thelma Annes de Araújo" target="Feminino"/>
+      <edge id="geid_257_446" source="Thelma Annes de Araújo" target="Prisão"/>
+      <edge id="geid_257_447" source="Thelma Annes de Araújo" target="Perseguição Política"/>
+      <edge id="geid_257_448" source="Vera Lucia Domschke" target="Feminino"/>
+      <edge id="geid_257_449" source="Vera Lucia Domschke" target="Prisão"/>
+      <edge id="geid_257_450" source="Vera Lucia Domschke" target="Perseguição Política"/>
+      <edge id="geid_257_451" source="Vilson Orlando Toniasso" target="Masculino"/>
+      <edge id="geid_257_452" source="Vilson Orlando Toniasso" target="Prisão"/>
+      <edge id="geid_257_453" source="Vilson Orlando Toniasso" target="Perseguição Política"/>
+      <edge id="geid_257_454" source="Iara Iavelberg" target="Feminino"/>
+      <edge id="geid_257_455" source="Iara Iavelberg" target="Assassinato/Execução"/>
+      <edge id="geid_257_456" source="Wilson Ribeiro dos Santos Junior" target="Masculino"/>
+      <edge id="geid_257_457" source="Wilson Ribeiro dos Santos Junior" target="Prisão"/>
+      <edge id="geid_257_458" source="Wilson Ribeiro dos Santos Junior" target="Perseguição Política"/>
+      <edge id="geid_257_459" source="Ísis Dias de Oliveira" target="Feminino"/>
+      <edge id="geid_257_460" source="Ísis Dias de Oliveira" target="Desaparecimento"/>
+      <edge id="geid_257_461" source="Ísis Dias de Oliveira" target="Prisão"/>
+      <edge id="geid_257_462" source="Ísis Dias de Oliveira" target="Tortura"/>
+      <edge id="geid_257_463" source="Ísis Dias de Oliveira" target="Violência de Gênero"/>
+      <edge id="geid_257_464" source="Issami Nakamura Okano" target="Masculino"/>
+      <edge id="geid_257_465" source="Issami Nakamura Okano" target="Violência Física"/>
+      <edge id="geid_257_466" source="Issami Nakamura Okano" target="Prisão"/>
+      <edge id="geid_257_467" source="Issami Nakamura Okano" target="Tortura"/>
+      <edge id="geid_257_468" source="Issami Nakamura Okano" target="Desaparecimento"/>
+      <edge id="geid_257_469" source="Issami Nakamura Okano" target="Assassinato/Execução"/>
+      <edge id="geid_257_470" source="Jane Vanini" target="Feminino"/>
+      <edge id="geid_257_471" source="Jane Vanini" target="Violência Física"/>
+      <edge id="geid_257_472" source="Jane Vanini" target="Prisão"/>
+      <edge id="geid_257_473" source="Jane Vanini" target="Desaparecimento"/>
+      <edge id="geid_257_474" source="Jeová Assis Gomes" target="Masculino"/>
+      <edge id="geid_257_475" source="Jeová Assis Gomes" target="Assassinato/Execução"/>
+      <edge id="geid_257_476" source="Jeová Assis Gomes" target="Violência Física"/>
+      <edge id="geid_257_477" source="Jeová Assis Gomes" target="Prisão"/>
+      <edge id="geid_257_478" source="Jeová Assis Gomes" target="Tortura"/>
+      <edge id="geid_257_479" source="Jeová Assis Gomes" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_480" source="João Antônio Santos Abi-Eçab" target="Masculino"/>
+      <edge id="geid_257_481" source="João Antônio Santos Abi-Eçab" target="Assassinato/Execução"/>
+      <edge id="geid_257_482" source="João Antônio Santos Abi-Eçab" target="Violência sob Ocultação"/>
+      <edge id="geid_257_483" source="Juan Antonio Carrasco Forrastal" target="Masculino"/>
+      <edge id="geid_257_484" source="Juan Antonio Carrasco Forrastal" target="Prisão"/>
+      <edge id="geid_257_485" source="Juan Antonio Carrasco Forrastal" target="Tortura"/>
+      <edge id="geid_257_486" source="Lauriberto José Reyes" target="Masculino"/>
+      <edge id="geid_257_487" source="Lauriberto José Reyes" target="Violência Física"/>
+      <edge id="geid_257_488" source="Lauriberto José Reyes" target="Assassinato/Execução"/>
+      <edge id="geid_257_489" source="Lauriberto José Reyes" target="Perseguição Política"/>
+      <edge id="geid_257_490" source="Lígia Maria Salgado Nóbrega" target="Feminino"/>
+      <edge id="geid_257_491" source="Lígia Maria Salgado Nóbrega" target="Violência Física"/>
+      <edge id="geid_257_492" source="Lígia Maria Salgado Nóbrega" target="Perseguição Política"/>
+      <edge id="geid_257_493" source="Lígia Maria Salgado Nóbrega" target="Tortura"/>
+      <edge id="geid_257_494" source="Lígia Maria Salgado Nóbrega" target="Assassinato/Execução"/>
+      <edge id="geid_257_495" source="Lígia Maria Salgado Nóbrega" target="Violência Psicológica"/>
+      <edge id="geid_257_496" source="Luiz Carlos de Almeida" target="Masculino"/>
+      <edge id="geid_257_497" source="Luiz Carlos de Almeida" target="Violência Física"/>
+      <edge id="geid_257_498" source="Luiz Carlos de Almeida" target="Violência Psicológica"/>
+      <edge id="geid_257_499" source="Luiz Carlos de Almeida" target="Assassinato/Execução"/>
+      <edge id="geid_257_500" source="Luiz Carlos de Almeida" target="Tortura"/>
+      <edge id="geid_257_501" source="Luiz Carlos de Almeida" target="Perseguição Política"/>
+      <edge id="geid_257_502" source="Luiz Carlos de Almeida" target="Desaparecimento"/>
+      <edge id="geid_257_503" source="Luiz Eduardo da Rocha Merlino" target="Masculino"/>
+      <edge id="geid_257_504" source="Luiz Eduardo da Rocha Merlino" target="Violência Física"/>
+      <edge id="geid_257_505" source="Luiz Eduardo da Rocha Merlino" target="Violência Psicológica"/>
+      <edge id="geid_257_506" source="Luiz Eduardo da Rocha Merlino" target="Tortura"/>
+      <edge id="geid_257_507" source="Luiz Eduardo da Rocha Merlino" target="Violência sob Ocultação"/>
+      <edge id="geid_257_508" source="Luiz Fogaça Balboni" target="Masculino"/>
+      <edge id="geid_257_509" source="Luiz Fogaça Balboni" target="Violência Física"/>
+      <edge id="geid_257_510" source="Luiz Fogaça Balboni" target="Violência sob Ocultação"/>
+      <edge id="geid_257_511" source="Luiz Fogaça Balboni" target="Perseguição Política"/>
+      <edge id="geid_257_512" source="Luiz Fogaça Balboni" target="Tortura"/>
+      <edge id="geid_257_513" source="Leonel Itaussi de Almeida" target="Masculino"/>
+      <edge id="geid_257_514" source="Leonel Itaussi de Almeida" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_515" source="Leonel Itaussi de Almeida" target="Perseguição Política"/>
+      <edge id="geid_257_516" source="Leonel Itaussi de Almeida" target="Violência Psicológica"/>
+      <edge id="geid_257_517" source="Luiz Eduardo Almeida Curti" target="Masculino"/>
+      <edge id="geid_257_518" source="Luiz Eduardo Almeida Curti" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_519" source="Luiz Eduardo Almeida Curti" target="Perseguição Política"/>
+      <edge id="geid_257_520" source="Luiz Eduardo Almeida Curti" target="Violência Psicológica"/>
+      <edge id="geid_257_521" source="José Damião de Lima Trindade" target="Masculino"/>
+      <edge id="geid_257_522" source="José Damião de Lima Trindade" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_523" source="José Damião de Lima Trindade" target="Perseguição Política"/>
+      <edge id="geid_257_524" source="José Damião de Lima Trindade" target="Violência Psicológica"/>
+      <edge id="geid_257_525" source="Alvaro Roberto Margarido Pires" target="Masculino"/>
+      <edge id="geid_257_526" source="Alvaro Roberto Margarido Pires" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_527" source="Alvaro Roberto Margarido Pires" target="Perseguição Política"/>
+      <edge id="geid_257_528" source="Alvaro Roberto Margarido Pires" target="Violência Psicológica"/>
+      <edge id="geid_257_529" source="Marcio Taiz Valente Oswaldo" target="Masculino"/>
+      <edge id="geid_257_530" source="Marcio Taiz Valente Oswaldo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_531" source="Marcio Taiz Valente Oswaldo" target="Perseguição Política"/>
+      <edge id="geid_257_532" source="Marcio Taiz Valente Oswaldo" target="Violência Psicológica"/>
+      <edge id="geid_257_533" source="Percival Menon Maricato" target="Masculino"/>
+      <edge id="geid_257_534" source="Percival Menon Maricato" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_535" source="Percival Menon Maricato" target="Perseguição Política"/>
+      <edge id="geid_257_536" source="Percival Menon Maricato" target="Violência Psicológica"/>
+      <edge id="geid_257_537" source="Percival Menon Maricato" target="Violência Física"/>
+      <edge id="geid_257_538" source="José Antonio Fernando Ferrari" target="Masculino"/>
+      <edge id="geid_257_539" source="José Antonio Fernando Ferrari" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_540" source="José Antonio Fernando Ferrari" target="Perseguição Política"/>
+      <edge id="geid_257_541" source="José Antonio Fernando Ferrari" target="Violência Psicológica"/>
+      <edge id="geid_257_542" source="José Antonio Fernando Ferrari" target="Violência Física"/>
+      <edge id="geid_257_543" source="Maria Helena Andrade Silva" target="Feminino"/>
+      <edge id="geid_257_544" source="Maria Helena Andrade Silva" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_545" source="Maria Helena Andrade Silva" target="Perseguição Política"/>
+      <edge id="geid_257_546" source="Maria Helena Andrade Silva" target="Violência Psicológica"/>
+      <edge id="geid_257_547" source="Maria Helena Andrade Silva" target="Violência Física"/>
+      <edge id="geid_257_548" source="Solange Ramos Esteves" target="Feminino"/>
+      <edge id="geid_257_549" source="Solange Ramos Esteves" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_550" source="Solange Ramos Esteves" target="Perseguição Política"/>
+      <edge id="geid_257_551" source="Solange Ramos Esteves" target="Violência Psicológica"/>
+      <edge id="geid_257_552" source="Solange Ramos Esteves" target="Violência Física"/>
+      <edge id="geid_257_553" source="Eliette Lisboa Martelli" target="Feminino"/>
+      <edge id="geid_257_554" source="Eliette Lisboa Martelli" target="Violência Física"/>
+      <edge id="geid_257_555" source="Eliette Lisboa Martelli" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_556" source="Ademir Buitoni" target="Masculino"/>
+      <edge id="geid_257_557" source="Ademir Buitoni" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_558" source="Ademir Buitoni" target="Perseguição Política"/>
+      <edge id="geid_257_559" source="Ademir Buitoni" target="Violência Psicológica"/>
+      <edge id="geid_257_560" source="Ademir Buitoni" target="Violência Física"/>
+      <edge id="geid_257_561" source="Azael Rangel Camargo" target="Masculino"/>
+      <edge id="geid_257_562" source="Azael Rangel Camargo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_563" source="Azael Rangel Camargo" target="Perseguição Política"/>
+      <edge id="geid_257_564" source="Azael Rangel Camargo" target="Violência Psicológica"/>
+      <edge id="geid_257_565" source="João Miguel" target="Masculino"/>
+      <edge id="geid_257_566" source="João Miguel" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_567" source="João Miguel" target="Perseguição Política"/>
+      <edge id="geid_257_568" source="Miguelson David Isaac" target="Masculino"/>
+      <edge id="geid_257_569" source="Miguelson David Isaac" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_570" source="Miguelson David Isaac" target="Perseguição Política"/>
+      <edge id="geid_257_571" source="Elício de Cresci Sobrinho" target="Masculino"/>
+      <edge id="geid_257_572" source="Elício de Cresci Sobrinho" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_573" source="Elício de Cresci Sobrinho" target="Perseguição Política"/>
+      <edge id="geid_257_574" source="Juvêncio Gomes Garcia" target="Masculino"/>
+      <edge id="geid_257_575" source="Juvêncio Gomes Garcia" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_576" source="Juvêncio Gomes Garcia" target="Perseguição Política"/>
+      <edge id="geid_257_577" source="Rubens Naman Rizek" target="Masculino"/>
+      <edge id="geid_257_578" source="Rubens Naman Rizek" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_579" source="Rubens Naman Rizek" target="Perseguição Política"/>
+      <edge id="geid_257_580" source="Cícero Alexandre Jorge Gubeissi" target="Masculino"/>
+      <edge id="geid_257_581" source="Cícero Alexandre Jorge Gubeissi" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_582" source="Cícero Alexandre Jorge Gubeissi" target="Perseguição Política"/>
+      <edge id="geid_257_583" source="Luiz Hirata" target="Masculino"/>
+      <edge id="geid_257_584" source="Luiz Hirata" target="Violência Psicológica"/>
+      <edge id="geid_257_585" source="Luiz Hirata" target="Violência Física"/>
+      <edge id="geid_257_586" source="Luiz Hirata" target="Tortura"/>
+      <edge id="geid_257_587" source="Luiz Hirata" target="Violência sob Ocultação"/>
+      <edge id="geid_257_588" source="Luiz Hirata" target="Prisão"/>
+      <edge id="geid_257_589" source="Luiza Augusta Garlippe" target="Feminino"/>
+      <edge id="geid_257_590" source="Luiza Augusta Garlippe" target="Desaparecimento"/>
+      <edge id="geid_257_591" source="Luiza Augusta Garlippe" target="Perseguição Política"/>
+      <edge id="geid_257_592" source="Manuel José Nunes Mendes de Abreu" target="Masculino"/>
+      <edge id="geid_257_593" source="Manuel José Nunes Mendes de Abreu" target="Tortura"/>
+      <edge id="geid_257_594" source="Manuel José Nunes Mendes de Abreu" target="Violência Física"/>
+      <edge id="geid_257_595" source="Manuel José Nunes Mendes de Abreu" target="Violência sob Ocultação"/>
+      <edge id="geid_257_596" source="Manuel José Nunes Mendes de Abreu" target="Violência Psicológica"/>
+      <edge id="geid_257_597" source="Maria Regina Marcondes Pinto" target="Feminino"/>
+      <edge id="geid_257_598" source="Maria Regina Marcondes Pinto" target="Desaparecimento"/>
+      <edge id="geid_257_599" source="Maria Regina Marcondes Pinto" target="Não detalha"/>
+      <edge id="geid_257_600" source="Miguel Pereira dos Santos" target="Masculino"/>
+      <edge id="geid_257_601" source="Miguel Pereira dos Santos" target="Perseguição Política"/>
+      <edge id="geid_257_602" source="Miguel Pereira dos Santos" target="Desaparecimento"/>
+      <edge id="geid_257_603" source="Miguel Pereira dos Santos" target="Violência Física"/>
+      <edge id="geid_257_604" source="Nelson de Souza Kohl" target="Masculino"/>
+      <edge id="geid_257_605" source="Nelson de Souza Kohl" target="Perseguição Política"/>
+      <edge id="geid_257_606" source="Nelson de Souza Kohl" target="Tortura"/>
+      <edge id="geid_257_607" source="Nelson de Souza Kohl" target="Desaparecimento"/>
+      <edge id="geid_257_608" source="Nelson de Souza Kohl" target="Violência Física"/>
+      <edge id="geid_257_609" source="Norberto Nehring" target="Masculino"/>
+      <edge id="geid_257_610" source="Norberto Nehring" target="Perseguição Política"/>
+      <edge id="geid_257_611" source="Norberto Nehring" target="Violência sob Ocultação"/>
+      <edge id="geid_257_612" source="Norberto Nehring" target="Prisão"/>
+      <edge id="geid_257_613" source="Olavo Hansen" target="Masculino"/>
+      <edge id="geid_257_614" source="Olavo Hansen" target="Violência Psicológica"/>
+      <edge id="geid_257_615" source="Olavo Hansen" target="Tortura"/>
+      <edge id="geid_257_616" source="Olavo Hansen" target="Violência sob Ocultação"/>
+      <edge id="geid_257_617" source="Olavo Hansen" target="Prisão"/>
+      <edge id="geid_257_618" source="Olavo Hansen" target="Perseguição Política"/>
+      <edge id="geid_257_619" source="Olavo Hansen" target="Violência Física"/>
+      <edge id="geid_257_620" source="Ronaldo Mouth Queiroz" target="Masculino"/>
+      <edge id="geid_257_621" source="Ronaldo Mouth Queiroz" target="Perseguição Política"/>
+      <edge id="geid_257_622" source="Ronaldo Mouth Queiroz" target="Violência sob Ocultação"/>
+      <edge id="geid_257_623" source="Ronaldo Mouth Queiroz" target="Violência Física"/>
+      <edge id="geid_257_624" source="Ruy Carlos Vieira Berbert" target="Masculino"/>
+      <edge id="geid_257_625" source="Ruy Carlos Vieira Berbert" target="Tortura"/>
+      <edge id="geid_257_626" source="Ruy Carlos Vieira Berbert" target="Perseguição Política"/>
+      <edge id="geid_257_627" source="Ruy Carlos Vieira Berbert" target="Prisão"/>
+      <edge id="geid_257_628" source="Ruy Carlos Vieira Berbert" target="Desaparecimento"/>
+      <edge id="geid_257_629" source="Ruy Carlos Vieira Berbert" target="Violência Física"/>
+      <edge id="geid_257_630" source="Ruy Carlos Vieira Berbert" target="Violência sob Ocultação"/>
+      <edge id="geid_257_631" source="Sérgio Roberto Corrêa" target="Masculino"/>
+      <edge id="geid_257_632" source="Sérgio Roberto Corrêa" target="Não detalha"/>
+      <edge id="geid_257_633" source="Sidney Fix Marques dos Santos" target="Masculino"/>
+      <edge id="geid_257_634" source="Sidney Fix Marques dos Santos" target="Perseguição Política"/>
+      <edge id="geid_257_635" source="Sidney Fix Marques dos Santos" target="Desaparecimento"/>
+      <edge id="geid_257_636" source="Sidney Fix Marques dos Santos" target="Prisão"/>
+      <edge id="geid_257_637" source="Suely Yumiko Komaiana" target="Feminino"/>
+      <edge id="geid_257_638" source="Suely Yumiko Komaiana" target="Perseguição Política"/>
+      <edge id="geid_257_639" source="Suely Yumiko Komaiana" target="Desaparecimento"/>
+      <edge id="geid_257_640" source="Suely Yumiko Komaiana" target="Violência Física"/>
+      <edge id="geid_257_641" source="Suely Yumiko Komaiana" target="Assassinato/Execução"/>
+      <edge id="geid_257_642" source="Tito de Alencar Lima" target="Masculino"/>
+      <edge id="geid_257_643" source="Tito de Alencar Lima" target="Violência Psicológica"/>
+      <edge id="geid_257_644" source="Tito de Alencar Lima" target="Tortura"/>
+      <edge id="geid_257_645" source="Tito de Alencar Lima" target="Perseguição Política"/>
+      <edge id="geid_257_646" source="Tito de Alencar Lima" target="Prisão"/>
+      <edge id="geid_257_647" source="Tito de Alencar Lima" target="Violência Física"/>
+      <edge id="geid_257_648" source="Vladimir Herzog" target="Masculino"/>
+      <edge id="geid_257_649" source="Vladimir Herzog" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_650" source="Vladimir Herzog" target="Tortura"/>
+      <edge id="geid_257_651" source="Vladimir Herzog" target="Perseguição Política"/>
+      <edge id="geid_257_652" source="Vladimir Herzog" target="Violência sob Ocultação"/>
+      <edge id="geid_257_653" source="Vladimir Herzog" target="Violência Física"/>
+      <edge id="geid_257_654" source="Wânio José de Mattos" target="Masculino"/>
+      <edge id="geid_257_655" source="Wânio José de Mattos" target="Tortura"/>
+      <edge id="geid_257_656" source="Wânio José de Mattos" target="Violência sob Ocultação"/>
+      <edge id="geid_257_657" source="Wânio José de Mattos" target="Desaparecimento"/>
+      <edge id="geid_257_658" source="Wânio José de Mattos" target="Violência Física"/>
+      <edge id="geid_257_659" source="Wânio José de Mattos" target="Prisão"/>
+      <edge id="geid_257_660" source="Wânio José de Mattos" target="Perseguição Política"/>
+      <edge id="geid_257_661" source="Wilson Silva" target="Masculino"/>
+      <edge id="geid_257_662" source="Wilson Silva" target="Desaparecimento"/>
+      <edge id="geid_257_663" source="Wilson Silva" target="Prisão"/>
+      <edge id="geid_257_664" source="Paulo Alfeu Monteiro Junqueira Duarte" target="Masculino"/>
+      <edge id="geid_257_665" source="Paulo Alfeu Monteiro Junqueira Duarte" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_666" source="Paulo Alfeu Monteiro Junqueira Duarte" target="Perseguição Política"/>
+      <edge id="geid_257_667" source="Pedro Dimitrov" target="Masculino"/>
+      <edge id="geid_257_668" source="Pedro Dimitrov" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_669" source="Pedro Dimitrov" target="Perseguição Política"/>
+      <edge id="geid_257_670" source="Antonio de Azevedo Barros Filho" target="Masculino"/>
+      <edge id="geid_257_671" source="Antonio de Azevedo Barros Filho" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_672" source="Antonio de Azevedo Barros Filho" target="Perseguição Política"/>
+      <edge id="geid_257_673" source="Carl Peter von Dietrich" target="Masculino"/>
+      <edge id="geid_257_674" source="Carl Peter von Dietrich" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_675" source="Carl Peter von Dietrich" target="Perseguição Política"/>
+      <edge id="geid_257_676" source="Celso Luiz Leite" target="Masculino"/>
+      <edge id="geid_257_677" source="Celso Luiz Leite" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_678" source="Celso Luiz Leite" target="Perseguição Política"/>
+      <edge id="geid_257_679" source="Marilisa Berti de Azevedo Barros" target="Feminino"/>
+      <edge id="geid_257_680" source="Marilisa Berti de Azevedo Barros" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_681" source="Marilisa Berti de Azevedo Barros" target="Perseguição Política"/>
+      <edge id="geid_257_682" source="Pedro Ratis e Silva" target="Masculino"/>
+      <edge id="geid_257_683" source="Pedro Ratis e Silva" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_684" source="Pedro Ratis e Silva" target="Perseguição Política"/>
+      <edge id="geid_257_685" source="Sadalla Domingos" target="Masculino"/>
+      <edge id="geid_257_686" source="Sadalla Domingos" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_687" source="Sadalla Domingos" target="Perseguição Política"/>
+      <edge id="geid_257_688" source="Sonia Machado de Campos Dietrich" target="Feminino"/>
+      <edge id="geid_257_689" source="Sonia Machado de Campos Dietrich" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_690" source="Sonia Machado de Campos Dietrich" target="Perseguição Política"/>
+      <edge id="geid_257_691" source="Maria Niedja Leite de Oliveira" target="Feminino"/>
+      <edge id="geid_257_692" source="Maria Niedja Leite de Oliveira" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_693" source="Maria Niedja Leite de Oliveira" target="Perseguição Política"/>
+      <edge id="geid_257_694" source="Edgard Augusto Lopes" target="Masculino"/>
+      <edge id="geid_257_695" source="Edgard Augusto Lopes" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_696" source="Edgard Augusto Lopes" target="Perseguição Política"/>
+      <edge id="geid_257_697" source="Mario Koech Takeya" target="Masculino"/>
+      <edge id="geid_257_698" source="Mario Koech Takeya" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_699" source="Mario Koech Takeya" target="Perseguição Política"/>
+      <edge id="geid_257_700" source="Fuad Daher Saad" target="Masculino"/>
+      <edge id="geid_257_701" source="Fuad Daher Saad" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_702" source="Fuad Daher Saad" target="Perseguição Política"/>
+      <edge id="geid_257_703" source="Antonio Carlos Vilela Braga" target="Masculino"/>
+      <edge id="geid_257_704" source="Antonio Carlos Vilela Braga" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_705" source="Antonio Carlos Vilela Braga" target="Perseguição Política"/>
+      <edge id="geid_257_706" source="Eliseu Gabriel de Pieri" target="Masculino"/>
+      <edge id="geid_257_707" source="Eliseu Gabriel de Pieri" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_708" source="Eliseu Gabriel de Pieri" target="Perseguição Política"/>
+      <edge id="geid_257_709" source="Maria Alice Machado de Gouveia" target="Feminino"/>
+      <edge id="geid_257_710" source="Maria Alice Machado de Gouveia" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_711" source="Maria Alice Machado de Gouveia" target="Perseguição Política"/>
+      <edge id="geid_257_712" source="Sergio de Mello Schneider" target="Masculino"/>
+      <edge id="geid_257_713" source="Sergio de Mello Schneider" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_714" source="Sergio de Mello Schneider" target="Perseguição Política"/>
+      <edge id="geid_257_715" source="Luiz Gonzaga Moreira" target="Masculino"/>
+      <edge id="geid_257_716" source="Luiz Gonzaga Moreira" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_717" source="Luiz Gonzaga Moreira" target="Perseguição Política"/>
+      <edge id="geid_257_718" source="Ottaviano Carlo de Fiore" target="Masculino"/>
+      <edge id="geid_257_719" source="Ottaviano Carlo de Fiore" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_720" source="Ottaviano Carlo de Fiore" target="Perseguição Política"/>
+      <edge id="geid_257_721" source="Odette Carvalho de Lima Seabra" target="Feminino"/>
+      <edge id="geid_257_722" source="Odette Carvalho de Lima Seabra" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_723" source="Odette Carvalho de Lima Seabra" target="Perseguição Política"/>
+      <edge id="geid_257_724" source="Marina Ferreira Rea" target="Feminino"/>
+      <edge id="geid_257_725" source="Marina Ferreira Rea" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_726" source="Marina Ferreira Rea" target="Perseguição Política"/>
+      <edge id="geid_257_727" source="Antonio Januario de Magalhães" target="Masculino"/>
+      <edge id="geid_257_728" source="Antonio Januario de Magalhães" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_729" source="Antonio Januario de Magalhães" target="Perseguição Política"/>
+      <edge id="geid_257_730" source="Jairo Zacarias Gonçalves" target="Masculino"/>
+      <edge id="geid_257_731" source="Jairo Zacarias Gonçalves" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_732" source="Jairo Zacarias Gonçalves" target="Perseguição Política"/>
+      <edge id="geid_257_733" source="Luiz Silveira Menna Barreto" target="Masculino"/>
+      <edge id="geid_257_734" source="Luiz Silveira Menna Barreto" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_735" source="Luiz Silveira Menna Barreto" target="Perseguição Política"/>
+      <edge id="geid_257_736" source="Luiz Silveira Menna Barreto" target="Prisão"/>
+      <edge id="geid_257_737" source="José Freitas Nobre" target="Masculino"/>
+      <edge id="geid_257_738" source="José Freitas Nobre" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_739" source="José Freitas Nobre" target="Perseguição Política"/>
+      <edge id="geid_257_740" source="José Marques de Melo" target="Masculino"/>
+      <edge id="geid_257_741" source="José Marques de Melo" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_742" source="José Marques de Melo" target="Perseguição Política"/>
+      <edge id="geid_257_743" source="Lucia Maria Sálvia Coelho" target="Feminino"/>
+      <edge id="geid_257_744" source="Lucia Maria Sálvia Coelho" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_745" source="Lucia Maria Sálvia Coelho" target="Perseguição Política"/>
+      <edge id="geid_257_746" source="Maria Hermínia Tavares de Almeida" target="Feminino"/>
+      <edge id="geid_257_747" source="Maria Hermínia Tavares de Almeida" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_748" source="Maria Hermínia Tavares de Almeida" target="Perseguição Política"/>
+      <edge id="geid_257_749" source="Maria Hermínia Tavares de Almeida" target="Prisão"/>
+      <edge id="geid_257_750" source="Nei Rocha Cunha" target="Masculino"/>
+      <edge id="geid_257_751" source="Nei Rocha Cunha" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_752" source="Nei Rocha Cunha" target="Perseguição Política"/>
+      <edge id="geid_257_753" source="Sergio Pereira de Souza Lima" target="Masculino"/>
+      <edge id="geid_257_754" source="Sergio Pereira de Souza Lima" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_755" source="Sergio Pereira de Souza Lima" target="Perseguição Política"/>
+      <edge id="geid_257_756" source="Albertina Duarte" target="Feminino"/>
+      <edge id="geid_257_757" source="Albertina Duarte" target="Perseguição Política"/>
+      <edge id="geid_257_758" source="Áurea Moretti Pires" target="Feminino"/>
+      <edge id="geid_257_759" source="Áurea Moretti Pires" target="Prisão"/>
+      <edge id="geid_257_760" source="Áurea Moretti Pires" target="Perseguição Política"/>
+      <edge id="geid_257_761" source="Abram Becjam Fajer" target="Masculino"/>
+      <edge id="geid_257_762" source="Abram Becjam Fajer" target="Perseguição Política"/>
+      <edge id="geid_257_763" source="Alberto Carvalho da Silva" target="Masculino"/>
+      <edge id="geid_257_764" source="Alberto Carvalho da Silva" target="Perseguição Política"/>
+      <edge id="geid_257_765" source="Alberto Carvalho da Silva" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_766" source="Antonio Frederico Branco Lefévre" target="Masculino"/>
+      <edge id="geid_257_767" source="Antonio Frederico Branco Lefévre" target="Perseguição Política"/>
+      <edge id="geid_257_768" source="Arnóbio Washington" target="Masculino"/>
+      <edge id="geid_257_769" source="Arnóbio Washington" target="Perseguição Política"/>
+      <edge id="geid_257_770" source="Eunofre Marques" target="Masculino"/>
+      <edge id="geid_257_771" source="Eunofre Marques" target="Perseguição Política"/>
+      <edge id="geid_257_772" source="Feiga Langfeldt" target="Feminino"/>
+      <edge id="geid_257_773" source="Feiga Langfeldt" target="Perseguição Política"/>
+      <edge id="geid_257_774" source="Francisco Humberto de Abreu Maffei" target="Masculino"/>
+      <edge id="geid_257_775" source="Francisco Humberto de Abreu Maffei" target="Perseguição Política"/>
+      <edge id="geid_257_776" source="José Barros Magaldi" target="Masculino"/>
+      <edge id="geid_257_777" source="José Barros Magaldi" target="Perseguição Política"/>
+      <edge id="geid_257_778" source="Maria José Von Paumgartten Deane" target="Feminino"/>
+      <edge id="geid_257_779" source="Maria José Von Paumgartten Deane" target="Perseguição Política"/>
+      <edge id="geid_257_780" source="Roland Veras Saldanha" target="Masculino"/>
+      <edge id="geid_257_781" source="Roland Veras Saldanha" target="Perseguição Política"/>
+      <edge id="geid_257_782" source="Elza Berquó" target="Feminino"/>
+      <edge id="geid_257_783" source="Elza Berquó" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_784" source="Elza Berquó" target="Perseguição Política"/>
+      <edge id="geid_257_785" source="Antônio Guimarães Ferri" target="Masculino"/>
+      <edge id="geid_257_786" source="Antônio Guimarães Ferri" target="Não detalha"/>
+      <edge id="geid_257_787" source="Dilea Frate" target="Feminino"/>
+      <edge id="geid_257_788" source="Dilea Frate" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_789" source="Dilea Frate" target="Prisão"/>
+      <edge id="geid_257_790" source="Dilea Frate" target="Não detalha"/>
+      <edge id="geid_257_791" source="Dilea Frate" target="Perseguição Política"/>
+      <edge id="geid_257_792" source="Eduardo Peñuela Canizal" target="Masculino"/>
+      <edge id="geid_257_793" source="Eduardo Peñuela Canizal" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_794" source="Eduardo Peñuela Canizal" target="Perseguição Política"/>
+      <edge id="geid_257_795" source="Jair Borin" target="Masculino"/>
+      <edge id="geid_257_796" source="Jair Borin" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_797" source="Jair Borin" target="Perseguição Política"/>
+      <edge id="geid_257_798" source="Jair Borin" target="Prisão"/>
+      <edge id="geid_257_799" source="Jair Borin" target="Tortura"/>
+      <edge id="geid_257_800" source="Jair Borin" target="Violência Física"/>
+      <edge id="geid_257_801" source="Thomaz Jorge Farkas" target="Masculino"/>
+      <edge id="geid_257_802" source="Thomaz Jorge Farkas" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_803" source="Thomaz Jorge Farkas" target="Perseguição Política"/>
+      <edge id="geid_257_804" source="Paulo Emílio Sales Gomes" target="Masculino"/>
+      <edge id="geid_257_805" source="Paulo Emílio Sales Gomes" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_806" source="Paulo Emílio Sales Gomes" target="Perseguição Política"/>
+      <edge id="geid_257_807" source="Cremilda Araújo Medina" target="Feminino"/>
+      <edge id="geid_257_808" source="Cremilda Araújo Medina" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_809" source="Cremilda Araújo Medina" target="Perseguição Política"/>
+      <edge id="geid_257_810" source="Sinval Medina" target="Masculino"/>
+      <edge id="geid_257_811" source="Sinval Medina" target="Violência Moral/Institucional"/>
+      <edge id="geid_257_812" source="Sinval Medina" target="Perseguição Política"/>
+      <edge id="geid_257_813" source="Fernanda Andrade Pompeu" target="Feminino"/>
+      <edge id="geid_257_814" source="Fernanda Andrade Pompeu" target="Perseguição Política"/>
+      <edge id="geid_257_815" source="Fernanda Andrade Pompeu" target="Violência Física"/>
+      <edge id="geid_257_816" source="Fernanda Andrade Pompeu" target="Prisão"/>
+      <edge id="geid_257_817" source="José Américo Ascêncio Dias" target="Masculino"/>
+      <edge id="geid_257_818" source="José Américo Ascêncio Dias" target="Perseguição Política"/>
+      <edge id="geid_257_819" source="José Américo Ascêncio Dias" target="Não detalha"/>
+      <edge id="geid_257_820" source="Luiz Sergio Ragnole Silva" target="Masculino"/>
+      <edge id="geid_257_821" source="Luiz Sergio Ragnole Silva" target="Perseguição Política"/>
+      <edge id="geid_257_822" source="Luiz Sergio Ragnole Silva" target="Não detalha"/>
+      <edge id="geid_257_823" source="Maria Dora Genis Mourão" target="Feminino"/>
+      <edge id="geid_257_824" source="Maria Dora Genis Mourão" target="Prisão"/>
+      <edge id="geid_257_825" source="Maria Dora Genis Mourão" target="Perseguição Política"/>
+    </edges>
+  </graph>
+</gexf>
